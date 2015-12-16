@@ -1,4 +1,4 @@
-# Introduction to the 2015 Guidelines
+#Introduction to the 2015 Guidelines
 
 The 2015 BJCP Style Guidelines are a major revision from the 2008 edition. The goals of the new edition are to better address world beer styles as found in their local markets, keep pace with emerging craft beer market trends, describe historical beers now finding a following, better describe the sensory characteristics of modern brewing ingredients, take advantage of new research and references, and help competition organizers better manage the complexity of their events.
 

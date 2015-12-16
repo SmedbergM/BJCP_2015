@@ -3,6 +3,14 @@
 
 ###Text and XML versions of the Beer Judge Certification Program 2015 style guidelines
 
+Markdown version generated via (somewhat laborious) copy/paste from the official DOCX.
+
+XML version created via automated script from Markdown.
+
+Note: text formatting *within* the XML document retains Markdown syntax: that is, `this text has an *italic* word`  
+rather than
+`this text has an <i>italic</i> word`.
+
 Copyright © 2015, BJCP, Inc.
 The BJCP grants the right to make copies for use in BJCP-sanctioned competitions or for educational/judge training purposes.  
 All other rights reserved.
