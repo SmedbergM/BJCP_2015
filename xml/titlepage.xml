@@ -1,0 +1,75 @@
+<doc>
+  <title>
+    <h1>Beer Judge Certification Program</h1>
+    <h1>2015 Style Guidelines</h1>
+  </title>
+  <subtitle>
+    <h2>Beer Style Guidelines</h2>
+  </subtitle>
+  <copyright>
+    <paragraph>Copyright © 2015, BJCP, Inc.</paragraph>
+  </copyright>
+  <license>
+    <paragraph>The BJCP grants the right to make copies for use in BJCP-sanctioned competitions or for educational/judge training purposes. All other rights reserved.</paragraph>
+  </license>
+  <updates>
+    <paragraph>Updates available at www.bjcp.org.</paragraph>
+  </updates>
+  <editor>
+    <h3>Edited by:</h3>
+    <contributor>Gordon Strong</contributor>
+  </editor>
+  <with>
+    <paragraph>with</paragraph>
+  </with>
+  <coeditor>
+    <contributor>Kristen England</contributor>
+  </coeditor>
+  <pastguidelineanalysis>
+    <h3>Past Guideline Analysis:</h3>
+    <contributor>Don Blake</contributor>
+    <contributor>Agatha Feltus</contributor>
+    <contributor>Tom Fitzpatrick</contributor>
+    <contributor>Mark Linsner</contributor>
+    <contributor>Jamil Zainasheff</contributor>
+  </pastguidelineanalysis>
+  <newstylecontributions>
+    <h3>New Style Contributions:</h3>
+    <contributor>Drew Beechum</contributor>
+    <contributor>Craig Belanger</contributor>
+    <contributor>Dibbs Harting</contributor>
+    <contributor>Antony Hayes</contributor>
+    <contributor>Ben Jankowski</contributor>
+    <contributor>Andew Korty</contributor>
+    <contributor>Larry Nadeau</contributor>
+    <contributor>William Shawn Scott</contributor>
+    <contributor>Ron Smith</contributor>
+    <contributor>Lachlan Strong</contributor>
+    <contributor>Peter Symons</contributor>
+    <contributor>Michael Tonsmeire</contributor>
+    <contributor>Mike Winnie</contributor>
+    <contributor>Tony Wheeler</contributor>
+  </newstylecontributions>
+  <reviewandcommentary>
+    <h3>Review and Commentary:</h3>
+    <contributor>Ray Daniels</contributor>
+    <contributor>Roger Deschner</contributor>
+    <contributor>Rick Garvin</contributor>
+    <contributor>Jan Grmela</contributor>
+    <contributor>Bob Hall</contributor>
+    <contributor>Stan Hieronymus</contributor>
+    <contributor>Marek Mahut</contributor>
+    <contributor>Ron Pattinson</contributor>
+    <contributor>Steve Piatz</contributor>
+    <contributor>Evan Rail</contributor>
+    <contributor>Nathan Smith</contributor>
+    <contributor>Petra and Michal Vřes</contributor>
+  </reviewandcommentary>
+  <finalreview>
+    <h3>Final Review:</h3>
+    <contributor>Brian Eichhorn</contributor>
+    <contributor>Agatha Feltus</contributor>
+    <contributor>Dennis Mitchell</contributor>
+    <contributor>Michael Wilcox</contributor>
+  </finalreview>
+</doc>
