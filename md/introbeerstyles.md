@@ -46,7 +46,7 @@ Unless otherwise noted, assume all lagers to not have any fruitiness (esters). A
 
 **Pilsner or Pils malt** -- continental Pilsner malt is quite distinctive, and has a slightly sweet, lightly grainy character with a soft, slightly toasty, honey-like quality. Higher in DMS precursors than other malts, its use can sometimes result in a low corny DMS flavor.
 
-**Maillard products **-- a class of compounds produced from complex interactions between sugars and amino acids at high temperatures, resulting in brown colors and rich, malty, sometimes even somewhat meaty compounds. In previous versions of the guidelines, known as melanoidins, which are a subset of Maillard products responsible for red-brown colors (and, according to Kunze, are “aroma-intensive”). In some brewing literature, melanoidin and Maillard product are used interchangeably. The chemistry and flavor characterization is not well understood, so brewers and judges should avoid excessively pedantic discussions around these points. The takeaway is that we mean the richly malty flavors, and need some kind of convenient shorthand to discuss them. Maillard is pronounced, roughly, as “my-YARD.”
+**Maillard products** -- a class of compounds produced from complex interactions between sugars and amino acids at high temperatures, resulting in brown colors and rich, malty, sometimes even somewhat meaty compounds. In previous versions of the guidelines, known as melanoidins, which are a subset of Maillard products responsible for red-brown colors (and, according to Kunze, are “aroma-intensive”). In some brewing literature, melanoidin and Maillard product are used interchangeably. The chemistry and flavor characterization is not well understood, so brewers and judges should avoid excessively pedantic discussions around these points. The takeaway is that we mean the richly malty flavors, and need some kind of convenient shorthand to discuss them. Maillard is pronounced, roughly, as “my-YARD.”
 
 **Biscuity** -- dry, toasted grain, flour, or dough flavor reminiscent of English digestive biscuits; in brewing, a flavor commonly associated with Biscuit malt and some traditional English malts.
 
@@ -109,57 +109,57 @@ To assist with regrouping styles for other purposes, we have added informational
 
 Category | Tag | Meaning
 :---: | :---: | :---:
-**Strength** | |
-| session-strength | <4% ABV
-| standard-strength | 4-6% ABV
-| high-strength | 6-9% ABV
-| very-high-strength | >9% ABV
+**Strength** | | 
+| | session-strength | <4% ABV
+| | standard-strength | 4-6% ABV
+| | high-strength | 6-9% ABV
+| | very-high-strength | >9% ABV
 **Color** | |
-| pale-color | straw to gold
-| amber-color | amber to copper-brown
-| dark-color | dark brown to black
+| | pale-color | straw to gold
+| | amber-color | amber to copper-brown
+| | dark-color | dark brown to black
 **Fermentation/Conditioning** | |
-| top-fermented | ale yeast
-| bottom-fermented | lager yeast
-| any-fermentation | ale yeast or lager yeast
-| wild-fermented | non-Saccharomyces yeast/bacteria
-| lagered | cold conditioned
-| aged | long conditioning before release
+| | top-fermented | ale yeast
+| | bottom-fermented | lager yeast
+| | any-fermentation | ale yeast or lager yeast
+| | wild-fermented | non-Saccharomyces yeast/bacteria
+| | lagered | cold conditioned
+| | aged | long conditioning before release
 **Region of Origin** | |
-| british-isles | England, Wales, Scotland, Ireland
-| western-europe | Belgium, France, Netherlands
-| central-europe | Germany, Austria, Czech Republic, Scandinavia
-| eastern-europe | Poland, Baltic States, Russia
-| north-america | United States, Canada, Mexico
-| pacific | Australia, New Zealand
+| | british-isles | England, Wales, Scotland, Ireland
+| | western-europe | Belgium, France, Netherlands
+| | central-europe | Germany, Austria, Czech Republic, Scandinavia
+| | eastern-europe | Poland, Baltic States, Russia
+| | north-america | United States, Canada, Mexico
+| | pacific | Australia, New Zealand
 **Style Family** | |
-|ipa-family|
-|brown-ale-family|
-|pale-ale-family|
-|pale-lager-family|
-| pilsner-family | 
-|| amber-ale-family | 
-| amber-lager-family | 
-| dark-lager-family | 
-| porter-family | 
-| stout-family | 
-| bock-family | 
-| strong-ale-family | 
-| wheat-beer-family | 
-| specialty-beer |
+| |ipa-family|
+| |brown-ale-family|
+| |pale-ale-family|
+| |pale-lager-family|
+| | pilsner-family | 
+| || amber-ale-family | 
+| | amber-lager-family | 
+| | dark-lager-family | 
+| | porter-family | 
+| | stout-family | 
+| | bock-family | 
+| | strong-ale-family | 
+| | wheat-beer-family | 
+| | specialty-beer |
 **Era**|| 
-| craft-style | developed in the modern craft beer era
-| traditional-style | developed before the modern craft beer era
-| historical-style | no longer made, or very limited production
+| | craft-style | developed in the modern craft beer era
+| | traditional-style | developed before the modern craft beer era
+| | historical-style | no longer made, or very limited production
 **Dominant Flavor** | |
-| malty | malt-forward flavor
-| bitter | bitter-forward flavor
-| balanced | similar malt and bitter intensity
-| hoppy | hop flavor
-| roasty | roasted malt/grain
-| sweet | noticeable residual sweetness or sugar flavor
-| smoke | flavor of smoked malt or grain
-| sour | noticeable sourness or intentionally elevated acidity
-| wood | wood or barrel age character
-| fruit | noticeable flavor and/or aroma of fruit
-| spice | noticeable flavor and/or aroma of spices
+| | malty | malt-forward flavor
+| | bitter | bitter-forward flavor
+| | balanced | similar malt and bitter intensity
+| | hoppy | hop flavor
+| | roasty | roasted malt/grain
+| | sweet | noticeable residual sweetness or sugar flavor
+| | smoke | flavor of smoked malt or grain
+| | sour | noticeable sourness or intentionally elevated acidity
+| | wood | wood or barrel age character
+| | fruit | noticeable flavor and/or aroma of fruit
+| | spice | noticeable flavor and/or aroma of spices
