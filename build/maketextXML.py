@@ -12,15 +12,32 @@ DocTree = etree.ElementTree(DocNode)
 def build_xml(root_node, mdfname):
     point = root_node
     with open(mdfname, encoding = 'utf8') as md:
-        for line in (line.strip() for line in md if line.strip()):
-            m = re.match(secpat,line)
-            if m:
-                while len(m.group(1)) <= int(point.attrib.get("level","0")):
-                    point = point.getparent()
-                point = etree.SubElement(point,"section", level = "{0}".format(len(m.group(1))), title = m.group(2))
-            else:
-                par = etree.SubElement(point,"paragraph")
-                par.text = line                
+        for line in md:
+            line = line.strip()
+            if line:
+                m = re.match(secpat,line)
+                if m:
+                    while len(m.group(1)) <= int(point.attrib.get("level","0")):
+                        point = point.getparent()
+                    point = etree.SubElement(point,"section", level = "{0}".format(len(m.group(1))), title = m.group(2))
+                elif "|" in line:
+                    point.append(parse_table(line,md))
+                else:
+                    par = etree.SubElement(point,"paragraph")
+                    par.text = line                
+
+def parse_table(header,line_iterator):
+    cols = [c.strip() for c in header.split('|')[1:]]
+    line = next(line_iterator) # skip alignment line
+    tableNode = etree.Element('table')
+    try:
+        while '|' in line:
+            line = next(line_iterator)
+            vals = [v.strip() for v in line.split('|')[1:]]
+            etree.SubElement(tableNode,'row',attrib = dict(zip(cols,vals)))
+    except StopIteration:
+        pass
+    return tableNode
 
 if __name__ == "__main__":
     from sys import argv
