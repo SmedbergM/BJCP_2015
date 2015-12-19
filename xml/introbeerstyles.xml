@@ -72,53 +72,53 @@
     <section level="2" title="Style Tag Reference">
       <paragraph>To assist with regrouping styles for other purposes, we have added informational tags to each style. These tags indicate certain attributes of the beer that may be used for grouping purposes. The ‘meaning' column explains the general intent of the tag, but is not meant to be rigorous, formal definition. In no way do the tags supersede the actual descriptions of the style.</paragraph>
       <table>
-        <row Category="**Strength**" Meaning="&lt;4% ABV" Tag="session-strength"/>
-        <row Category="**Strength**" Meaning="4-6% ABV" Tag="standard-strength"/>
-        <row Category="**Strength**" Meaning="6-9% ABV" Tag="high-strength"/>
-        <row Category="**Strength**" Meaning="&gt;9% ABV" Tag="very-high-strength"/>
-        <row Category="**Color**" Meaning="straw to gold" Tag="pale-color"/>
-        <row Category="**Color**" Meaning="amber to copper-brown" Tag="amber-color"/>
-        <row Category="**Color**" Meaning="dark brown to black" Tag="dark-color"/>
-        <row Category="**Fermentation/Conditioning**" Meaning="ale yeast" Tag="top-fermented"/>
-        <row Category="**Fermentation/Conditioning**" Meaning="lager yeast" Tag="bottom-fermented"/>
-        <row Category="**Fermentation/Conditioning**" Meaning="ale yeast or lager yeast" Tag="any-fermentation"/>
-        <row Category="**Fermentation/Conditioning**" Meaning="non-Saccharomyces yeast/bacteria" Tag="wild-fermented"/>
-        <row Category="**Fermentation/Conditioning**" Meaning="cold conditioned" Tag="lagered"/>
-        <row Category="**Fermentation/Conditioning**" Meaning="long conditioning before release" Tag="aged"/>
-        <row Category="**Region of Origin**" Meaning="England, Wales, Scotland, Ireland" Tag="british-isles"/>
-        <row Category="**Region of Origin**" Meaning="Belgium, France, Netherlands" Tag="western-europe"/>
-        <row Category="**Region of Origin**" Meaning="Germany, Austria, Czech Republic, Scandinavia" Tag="central-europe"/>
-        <row Category="**Region of Origin**" Meaning="Poland, Baltic States, Russia" Tag="eastern-europe"/>
-        <row Category="**Region of Origin**" Meaning="United States, Canada, Mexico" Tag="north-america"/>
-        <row Category="**Region of Origin**" Meaning="Australia, New Zealand" Tag="pacific"/>
-        <row Category="**Style Family**" Meaning="" Tag="ipa-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="brown-ale-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="pale-ale-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="pale-lager-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="pilsner-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="amber-ale-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="amber-lager-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="dark-lager-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="porter-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="stout-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="bock-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="strong-ale-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="wheat-beer-family"/>
-        <row Category="**Style Family**" Meaning="" Tag="specialty-beer"/>
-        <row Category="**Era**" Meaning="developed in the modern craft beer era" Tag="craft-style"/>
-        <row Category="**Era**" Meaning="developed before the modern craft beer era" Tag="traditional-style"/>
-        <row Category="**Era**" Meaning="no longer made, or very limited production" Tag="historical-style"/>
-        <row Category="**Dominant Flavor**" Meaning="malt-forward flavor" Tag="malty"/>
-        <row Category="**Dominant Flavor**" Meaning="bitter-forward flavor" Tag="bitter"/>
-        <row Category="**Dominant Flavor**" Meaning="similar malt and bitter intensity" Tag="balanced"/>
-        <row Category="**Dominant Flavor**" Meaning="hop flavor" Tag="hoppy"/>
-        <row Category="**Dominant Flavor**" Meaning="roasted malt/grain" Tag="roasty"/>
-        <row Category="**Dominant Flavor**" Meaning="noticeable residual sweetness or sugar flavor" Tag="sweet"/>
-        <row Category="**Dominant Flavor**" Meaning="flavor of smoked malt or grain" Tag="smoke"/>
-        <row Category="**Dominant Flavor**" Meaning="noticeable sourness or intentionally elevated acidity" Tag="sour"/>
-        <row Category="**Dominant Flavor**" Meaning="wood or barrel age character" Tag="wood"/>
-        <row Category="**Dominant Flavor**" Meaning="noticeable flavor and/or aroma of fruit" Tag="fruit"/>
-        <row Category="**Dominant Flavor**" Meaning="noticeable flavor and/or aroma of spices" Tag="spice"/>
+        <row Category="Strength" Meaning="&lt;4% ABV" Tag="session-strength"/>
+        <row Category="Strength" Meaning="4-6% ABV" Tag="standard-strength"/>
+        <row Category="Strength" Meaning="6-9% ABV" Tag="high-strength"/>
+        <row Category="Strength" Meaning="&gt;9% ABV" Tag="very-high-strength"/>
+        <row Category="Color" Meaning="straw to gold" Tag="pale-color"/>
+        <row Category="Color" Meaning="amber to copper-brown" Tag="amber-color"/>
+        <row Category="Color" Meaning="dark brown to black" Tag="dark-color"/>
+        <row Category="Fermentation/Conditioning" Meaning="ale yeast" Tag="top-fermented"/>
+        <row Category="Fermentation/Conditioning" Meaning="lager yeast" Tag="bottom-fermented"/>
+        <row Category="Fermentation/Conditioning" Meaning="ale yeast or lager yeast" Tag="any-fermentation"/>
+        <row Category="Fermentation/Conditioning" Meaning="non-Saccharomyces yeast/bacteria" Tag="wild-fermented"/>
+        <row Category="Fermentation/Conditioning" Meaning="cold conditioned" Tag="lagered"/>
+        <row Category="Fermentation/Conditioning" Meaning="long conditioning before release" Tag="aged"/>
+        <row Category="Region of Origin" Meaning="England, Wales, Scotland, Ireland" Tag="british-isles"/>
+        <row Category="Region of Origin" Meaning="Belgium, France, Netherlands" Tag="western-europe"/>
+        <row Category="Region of Origin" Meaning="Germany, Austria, Czech Republic, Scandinavia" Tag="central-europe"/>
+        <row Category="Region of Origin" Meaning="Poland, Baltic States, Russia" Tag="eastern-europe"/>
+        <row Category="Region of Origin" Meaning="United States, Canada, Mexico" Tag="north-america"/>
+        <row Category="Region of Origin" Meaning="Australia, New Zealand" Tag="pacific"/>
+        <row Category="Style Family" Meaning="" Tag="ipa-family"/>
+        <row Category="Style Family" Meaning="" Tag="brown-ale-family"/>
+        <row Category="Style Family" Meaning="" Tag="pale-ale-family"/>
+        <row Category="Style Family" Meaning="" Tag="pale-lager-family"/>
+        <row Category="Style Family" Meaning="" Tag="pilsner-family"/>
+        <row Category="Style Family" Meaning="" Tag="amber-ale-family"/>
+        <row Category="Style Family" Meaning="" Tag="amber-lager-family"/>
+        <row Category="Style Family" Meaning="" Tag="dark-lager-family"/>
+        <row Category="Style Family" Meaning="" Tag="porter-family"/>
+        <row Category="Style Family" Meaning="" Tag="stout-family"/>
+        <row Category="Style Family" Meaning="" Tag="bock-family"/>
+        <row Category="Style Family" Meaning="" Tag="strong-ale-family"/>
+        <row Category="Style Family" Meaning="" Tag="wheat-beer-family"/>
+        <row Category="Style Family" Meaning="" Tag="specialty-beer"/>
+        <row Category="Era" Meaning="developed in the modern craft beer era" Tag="craft-style"/>
+        <row Category="Era" Meaning="developed before the modern craft beer era" Tag="traditional-style"/>
+        <row Category="Era" Meaning="no longer made, or very limited production" Tag="historical-style"/>
+        <row Category="Dominant Flavor" Meaning="malt-forward flavor" Tag="malty"/>
+        <row Category="Dominant Flavor" Meaning="bitter-forward flavor" Tag="bitter"/>
+        <row Category="Dominant Flavor" Meaning="similar malt and bitter intensity" Tag="balanced"/>
+        <row Category="Dominant Flavor" Meaning="hop flavor" Tag="hoppy"/>
+        <row Category="Dominant Flavor" Meaning="roasted malt/grain" Tag="roasty"/>
+        <row Category="Dominant Flavor" Meaning="noticeable residual sweetness or sugar flavor" Tag="sweet"/>
+        <row Category="Dominant Flavor" Meaning="flavor of smoked malt or grain" Tag="smoke"/>
+        <row Category="Dominant Flavor" Meaning="noticeable sourness or intentionally elevated acidity" Tag="sour"/>
+        <row Category="Dominant Flavor" Meaning="wood or barrel age character" Tag="wood"/>
+        <row Category="Dominant Flavor" Meaning="noticeable flavor and/or aroma of fruit" Tag="fruit"/>
+        <row Category="Dominant Flavor" Meaning="noticeable flavor and/or aroma of spices" Tag="spice"/>
       </table>
     </section>
   </section>
