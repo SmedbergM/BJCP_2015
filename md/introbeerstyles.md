@@ -109,7 +109,7 @@ To assist with regrouping styles for other purposes, we have added informational
 
 | Category | Tag | Meaning
 | :---: | :---: | :---:
-| **Strength**  
+| **Strength** || 
 | | session-strength | <4% ABV
 | | standard-strength | 4-6% ABV
 | | high-strength | 6-9% ABV
