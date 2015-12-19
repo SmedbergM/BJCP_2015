@@ -109,50 +109,50 @@ To assist with regrouping styles for other purposes, we have added informational
 
 | Category | Tag | Meaning
 | :---: | :---: | :---:
-| **Strength** | session-strength | <4% ABV
-| **Strength** | standard-strength | 4-6% ABV
-| **Strength** | high-strength | 6-9% ABV
-| **Strength** | very-high-strength | >9% ABV
-| **Color** | pale-color | straw to gold
-| **Color** | amber-color | amber to copper-brown
-| **Color** | dark-color | dark brown to black
-| **Fermentation/Conditioning** | top-fermented | ale yeast
-| **Fermentation/Conditioning** | bottom-fermented | lager yeast
-| **Fermentation/Conditioning** | any-fermentation | ale yeast or lager yeast
-| **Fermentation/Conditioning** | wild-fermented | non-Saccharomyces yeast/bacteria
-| **Fermentation/Conditioning** | lagered | cold conditioned
-| **Fermentation/Conditioning** | aged | long conditioning before release
-| **Region of Origin** | british-isles | England, Wales, Scotland, Ireland
-| **Region of Origin** | western-europe | Belgium, France, Netherlands
-| **Region of Origin** | central-europe | Germany, Austria, Czech Republic, Scandinavia
-| **Region of Origin** | eastern-europe | Poland, Baltic States, Russia
-| **Region of Origin** | north-america | United States, Canada, Mexico
-| **Region of Origin**  | pacific | Australia, New Zealand
-| **Style Family** | ipa-family|
-| **Style Family** | brown-ale-family|
-| **Style Family** | pale-ale-family|
-| **Style Family** | pale-lager-family|
-| **Style Family** | pilsner-family | 
-| **Style Family** | amber-ale-family | 
-| **Style Family** | amber-lager-family | 
-| **Style Family** | dark-lager-family | 
-| **Style Family** | porter-family | 
-| **Style Family** | stout-family | 
-| **Style Family** | bock-family | 
-| **Style Family** | strong-ale-family | 
-| **Style Family** | wheat-beer-family | 
-| **Style Family** | specialty-beer |
-| **Era**| craft-style | developed in the modern craft beer era
-| **Era**| traditional-style | developed before the modern craft beer era
-| **Era**| historical-style | no longer made, or very limited production
-| **Dominant Flavor** | malty | malt-forward flavor
-| **Dominant Flavor** | bitter | bitter-forward flavor
-| **Dominant Flavor** | balanced | similar malt and bitter intensity
-| **Dominant Flavor** | hoppy | hop flavor
-| **Dominant Flavor** | roasty | roasted malt/grain
-| **Dominant Flavor** | sweet | noticeable residual sweetness or sugar flavor
-| **Dominant Flavor** | smoke | flavor of smoked malt or grain
-| **Dominant Flavor** | sour | noticeable sourness or intentionally elevated acidity
-| **Dominant Flavor** | wood | wood or barrel age character
-| **Dominant Flavor** | fruit | noticeable flavor and/or aroma of fruit
-| **Dominant Flavor** | spice | noticeable flavor and/or aroma of spices
+| Strength | session-strength | <4% ABV
+| Strength | standard-strength | 4-6% ABV
+| Strength | high-strength | 6-9% ABV
+| Strength | very-high-strength | >9% ABV
+| Color | pale-color | straw to gold
+| Color | amber-color | amber to copper-brown
+| Color | dark-color | dark brown to black
+| Fermentation/Conditioning | top-fermented | ale yeast
+| Fermentation/Conditioning | bottom-fermented | lager yeast
+| Fermentation/Conditioning | any-fermentation | ale yeast or lager yeast
+| Fermentation/Conditioning | wild-fermented | non-Saccharomyces yeast/bacteria
+| Fermentation/Conditioning | lagered | cold conditioned
+| Fermentation/Conditioning | aged | long conditioning before release
+| Region of Origin | british-isles | England, Wales, Scotland, Ireland
+| Region of Origin | western-europe | Belgium, France, Netherlands
+| Region of Origin | central-europe | Germany, Austria, Czech Republic, Scandinavia
+| Region of Origin | eastern-europe | Poland, Baltic States, Russia
+| Region of Origin | north-america | United States, Canada, Mexico
+| Region of Origin  | pacific | Australia, New Zealand
+| Style Family | ipa-family|
+| Style Family | brown-ale-family|
+| Style Family | pale-ale-family|
+| Style Family | pale-lager-family|
+| Style Family | pilsner-family | 
+| Style Family | amber-ale-family | 
+| Style Family | amber-lager-family | 
+| Style Family | dark-lager-family | 
+| Style Family | porter-family | 
+| Style Family | stout-family | 
+| Style Family | bock-family | 
+| Style Family | strong-ale-family | 
+| Style Family | wheat-beer-family | 
+| Style Family | specialty-beer |
+| Era| craft-style | developed in the modern craft beer era
+| Era| traditional-style | developed before the modern craft beer era
+| Era| historical-style | no longer made, or very limited production
+| Dominant Flavor | malty | malt-forward flavor
+| Dominant Flavor | bitter | bitter-forward flavor
+| Dominant Flavor | balanced | similar malt and bitter intensity
+| Dominant Flavor | hoppy | hop flavor
+| Dominant Flavor | roasty | roasted malt/grain
+| Dominant Flavor | sweet | noticeable residual sweetness or sugar flavor
+| Dominant Flavor | smoke | flavor of smoked malt or grain
+| Dominant Flavor | sour | noticeable sourness or intentionally elevated acidity
+| Dominant Flavor | wood | wood or barrel age character
+| Dominant Flavor | fruit | noticeable flavor and/or aroma of fruit
+| Dominant Flavor | spice | noticeable flavor and/or aroma of spices
