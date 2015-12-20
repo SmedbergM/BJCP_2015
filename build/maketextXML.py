@@ -6,9 +6,6 @@ import re
 
 secpat = r"(#+)\s*(.+)"
 
-DocNode = etree.Element('doc')
-DocTree = etree.ElementTree(DocNode)
-
 def build_xml(root_node, mdfname):
     point = root_node
     with open(mdfname, encoding = 'utf8') as md:
@@ -41,6 +38,9 @@ def parse_table(header,line_iterator):
 
 if __name__ == "__main__":
     from sys import argv
+
+    DocNode = etree.Element('doc')
+    DocTree = etree.ElementTree(DocNode)
 
     MDfname = argv[1]
     XMLfname = re.sub("\.md",".xml",\
