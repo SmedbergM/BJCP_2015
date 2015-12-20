@@ -16,7 +16,7 @@
 
 **Comments:** Designed to appeal to as broad a range of the general public as possible. Strong flavors are a fault.
 
-**History:** Coors briefly made a light lager in the early 1940s. Modern versions were first produced by Rheingold in 1967 to appeal to diet-conscious drinkers, but only became popular starting in 1973 after Miller Brewing acquired the recipe and marketed the beer heavily to sports fans with the “tastes great, less filling” campaign. Beers of this genre became the largest sellers in the United States in the 1990s.
+**History:** Coors briefly made a light lager in the early 1940s. Modern versions were first produced by Rheingold in 1967 to appeal to diet-conscious drinkers, but only became popular starting in 1973 after Miller Brewing acquired the recipe and marketed the beer heavily to sports fans with the "tastes great, less filling" campaign. Beers of this genre became the largest sellers in the United States in the 1990s.
 
 **Characteristic Ingredients:** Two- or six-row barley with high percentage (up to 40%) of rice or corn as adjuncts. Additional enzymes can further lighten the body and lower carbohydrates.
 
@@ -66,7 +66,7 @@ ABV:4.2 - 5.3%
 
 ##1C. Cream Ale
 
-**Overall Impression:** A clean, well-attenuated, flavorful American “lawnmower” beer. Easily drinkable and refreshing, with more character than typical American lagers.
+**Overall Impression:** A clean, well-attenuated, flavorful American "lawnmower" beer. Easily drinkable and refreshing, with more character than typical American lagers.
 
 **Aroma:** Medium-low to low malt notes, with a sweet, corn-like aroma. Low levels of DMS are allowable, but are not required. Hop aroma medium low to none, and can be of any variety although floral, spicy, or herbal notes are most common. Overall, a subtle aroma with neither hops nor malt dominating. Low fruity esters are optional.
 
@@ -74,7 +74,7 @@ ABV:4.2 - 5.3%
 
 **Flavor:** Low to medium-low hop bitterness. Low to moderate maltiness and sweetness, varying with gravity and attenuation. Usually well-attenuated. Neither malt nor hops dominate the palate. A low to moderate corny flavor is commonly found, as is light DMS (optional). Finish can vary from somewhat dry to faintly sweet. Low fruity esters are optional. Low to medium-low hop flavor (any variety, but typically floral, spicy, or herbal).
 
-**Mouthfeel:** Generally light and crisp, although body can reach medium. Smooth mouthfeel with medium to high attenuation; higher attenuation levels can lend a “thirst quenching” quality. High carbonation. 
+**Mouthfeel:** Generally light and crisp, although body can reach medium. Smooth mouthfeel with medium to high attenuation; higher attenuation levels can lend a "thirst quenching" quality. High carbonation. 
 
 **Comments:** Pre-prohibition Cream Ales were slightly stronger, hoppier (including some dry hopping) and more bitter (25-30+ IBUs). These versions should be entered in the historical category. Most commercial examples are in the 1.050-1.053 OG range, and bitterness rarely rises above 20 IBUs.
 
