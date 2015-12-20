@@ -23,11 +23,11 @@
 **Style Comparison:** A lighter-bodied, lower-alcohol, lower calorie version of an American Lager. Less hop character and bitterness than a Leichtbier. 
 
 **Vital Statistics:**
-OG:1.028 - 1.040
-IBUs:8 - 12
-FG:0.998 - 1.008
-SRM:2 - 3
-ABV:2.8 - 4.2%
+OG:1.028 - 1.040  
+IBUs:8 - 12  
+FG:0.998 - 1.008  
+SRM:2 - 3  
+ABV:2.8 - 4.2%  
 
 **Commercial Examples:** Bud Light, Coors Light, Keystone Light, Michelob Light, Miller Lite, Old Milwaukee Light
 
@@ -54,11 +54,11 @@ ABV:2.8 - 4.2%
 **Style Comparison:** Stronger, more flavor and body than a Light American Lager. Less bitterness and flavor than an International Lager. Significantly less flavor, hops, and bitterness than traditional European Pilsners.
 
 **Vital Statistics:**
-OG:1.040 - 1.050
-IBUs:8 - 18
-FG:1.004 - 1.010
-SRM:2 - 4
-ABV:4.2 - 5.3%
+OG:1.040 - 1.050  
+IBUs:8 - 18  
+FG:1.004 - 1.010  
+SRM:2 - 4  
+ABV:4.2 - 5.3%  
 
 **Commercial Examples:** Budweiser, Coors Original, Grain Belt Premium Lager, Miller High Life, Pabst Blue Ribbon, Special Export
 
@@ -85,11 +85,11 @@ ABV:4.2 - 5.3%
 **Style Comparison:** Similar to a Standard American Lager, but with more character.
 
 **Vital Statistics:**
-OG:1.042 - 1.055 
-IBUs: 8 - 20
-FG:1.006 - 1.012
-SRM: 2.5 - 5
-ABV:4.2 - 5.6%
+OG:1.042 - 1.055  
+IBUs: 8 - 20  
+FG:1.006 - 1.012  
+SRM: 2.5 - 5  
+ABV:4.2 - 5.6%  
 
 **Commercial Examples:** Genesee Cream Ale, Liebotschaner Cream Ale, Little Kings Cream Ale, New Glarus Spotted Cow, Old Style, Sleeman Cream Ale
 
@@ -116,11 +116,11 @@ ABV:4.2 - 5.6%
 **Style Comparison:** More hop character and less yeast character than German weissbier. Never with the banana and clove character of German weissbier. Generally can have the same range and balance as Blonde Ales, but with a wheat character as the primary malt flavor.
 
 **Vital Statistics:**
-OG:1.040 - 1.055
-IBUs:15 - 30
-FG:1.008 - 1.013
-SRM:3 - 6
-ABV:4.0 - 5.5%
+OG:1.040 - 1.055  
+IBUs:15 - 30  
+FG:1.008 - 1.013  
+SRM:3 - 6  
+ABV:4.0 - 5.5%  
 
 **Commercial Examples:** Bell's Oberon, Boulevard Unfiltered Wheat Beer, Goose Island 312 Urban Wheat Ale, Widmer Hefeweizen
 
