@@ -82,7 +82,7 @@ def build_xml(root_node, mdfname):
                         p.text = mstysec.string
             else:
                 p = etree.SubElement(point,"paragraph")
-                p.text = line
+                p.text = line.strip()
 
 def parse_vital_statistics(line_iterator):
     vspat = r"([a-zA-Z]+):\s*([0-9.]+)[\s%]*-\s*([0-9.]+)[\s%]*"
