@@ -1,0 +1,95 @@
+<doc>
+  <category name="Specialty Beer" number="34">
+    <paragraph>*While there are many Specialty-Type Beers in these guidelines, the Specialty Beer category is intended for those beers that do not fit anywhere else. As the number of Specialty-Type categories is quite large, most beers are expected to be entered elsewhere unless there is something quite unusual or unique about them. Please check each other Specialty-Type category first before deciding to enter a beer in one of these styles.*</paragraph>
+    <style style_id="34A" style_name="Clone Beer">
+      <paragraph>*This style is intended for reproductions of specific commercial beers that aren't good representations of existing styles. The use of the word _clone_ does _not_ imply _an exact copy_; it implies an interpretation of a style represented by a specific beer that does not have a defined style within the guidelines. The beer should be judged as to how well it fits the broader style represented by the example beer, not how well it is an exact copy of a specific commercial product. If a 'clone beer' does fit another style, do not enter it here.*</paragraph>
+      <overallimpression>
+        <paragraph>Based on declared clone beer.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>Based on declared clone beer.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Based on declared clone beer.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Based on declared clone beer.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Based on declared clone beer.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>Intended as a catch-all location for specific beers that are based on unique commercial examples that don't fit existing styles.</paragraph>
+      </comments>
+      <entryinstructions>
+        <paragraph>The entrant **must** specify the name of the commercial beer being cloned, specifications (vital statistics) for the beer, and either a brief sensory description or a list of ingredients used in making the beer. *Without this information, judges who are unfamiliar with the beer will have no basis for comparison.*</paragraph>
+      </entryinstructions>
+      <vitalstatistics>
+        <pargraph>OG, FG, IBUs, SRM and ABV will vary depending on the declared beer.</pargraph>
+      </vitalstatistics>
+      <tags>
+        <tag>specialty-beer</tag>
+      </tags>
+    </style>
+    <style style_id="34B" style_name="Mixed-Style Beer">
+      <paragraph>*This style is intended for combinations of existing styles (Classic Beers or Specialty-Type) that are not defined elsewhere in the guidelines. If a 'mixed-style beer' does fit another style, do not enter it here.*</paragraph>
+      <overallimpression>
+        <paragraph>Based on the declared base styles. As with all Specialty-Type Beers, the resulting combination of beer styles needs to be harmonious and balanced, and be pleasant to drink.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>Based on the declared base styles.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Based on the declared base styles.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Based on the declared base styles.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Based on the declared base styles.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>Intended for Specialty-Type combinations of styles not described elsewhere as Specialty-Type Beers, or as hybrid or fusion beers between other existing styles.</paragraph>
+      </comments>
+      <entryinstructions>
+        <paragraph>The entrant **must** specify the styles being mixed. The entrant **may** provide an additional description of the sensory profile of the beer or the vital statistics of the resulting beer.</paragraph>
+      </entryinstructions>
+      <tags>
+        <tag>specialty-beer</tag>
+      </tags>
+    </style>
+    <style style_id="34C" style_name="Experimental Beer">
+      <paragraph>*This is explicitly a catch-all category for any beer that does not fit into an existing style description. No beer is ever "out of style" in this style, unless it fits elsewhere. This is the last resort for any beer entered into a competition.*</paragraph>
+      <overallimpression>
+        <paragraph>Varies, but should be a unique experience.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>Varies.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Varies.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Varies.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Varies.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>This style is the ultimate in creativity, since it cannot represent a well-known commercial beer (otherwise it would be a clone beer) and cannot fit into any other existing Specialty-Type style (including those within this major category).</paragraph>
+      </comments>
+      <entryinstructions>
+        <paragraph>The entrant **must** specify the special nature of the experimental beer, including the special ingredients or processes that make it not fit elsewhere in the guidelines. The entrant **must** provide vital statistics for the beer, **and** either a brief sensory description or a list of ingredients used in making the beer. *Without this information, judges will have no basis for comparison.*</paragraph>
+      </entryinstructions>
+      <vitalstatistics>
+        <paragraph>OG, FG, IBUs, SRM and ABV will vary depending on the declared beer.</paragraph>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example>None</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>specialty-beer</tag>
+      </tags>
+    </style>
+  </category>
+</doc>

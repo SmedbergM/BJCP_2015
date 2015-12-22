@@ -1,0 +1,334 @@
+<doc>
+  <category name="European Sour Ale" number="23">
+    <paragraph>*This category contains the traditional sour beer styles of Europe that are still produced, many (but not all) with a wheat component. Most have low bitterness, with the sourness of the beer providing the balance that hop bitterness would otherwise contribute. Some are sweetened or flavored, whether at the brewery or upon consumption.*</paragraph>
+    <style style_id="23A" style_name="Berliner Weisse">
+      <overallimpression>
+        <paragraph>A very pale, refreshing, low-alcohol German wheat beer with a clean lactic sourness and a very high carbonation level. A light bread dough malt flavor supports the sourness, which shouldn't seem artificial. Any *Brettanomyces* funk is restrained.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>A sharply sour character is dominant (moderate to moderately-high). Can have up to a moderately fruity character (often lemony or tart apple). The fruitiness may increase with age and a light flowery character may develop. No hop aroma. The wheat may present as uncooked bread dough in fresher versions; combined with the acidity, may suggest sourdough bread. May optionally have a restrained funky *Brettanomyces* character.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Very pale straw in color. Clarity ranges from clear to somewhat hazy. Large, dense, white head with poor retention. Always effervescent.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Clean lactic sourness dominates and can be quite strong. Some complementary doughy, bready or grainy wheat flavor is generally noticeable. Hop bitterness is undetectable; sourness provides the balance rather than hops. Never vinegary. A restrained citrusy-lemony or tart apple fruitiness may be detected. Very dry finish. Balance dominated by sourness, but some malt flavor should be present. No hop flavor. May optionally have a restrained funky *Brettanomyces* character.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Light body. Very high carbonation. No sensation of alcohol. Crisp, juicy acidity.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>In Germany, it is classified as a *Schankbier* denoting a small beer of starting gravity in the range 7-8 °P. Often served with the addition of a shot of sugar syrups *(mit schuss) *flavored with raspberry *(himbeer)*, woodruff *(waldmeister)*, or Caraway schnapps *(Kümmel) *to counter the substantial sourness. Has been described by some as the most purely refreshing beer in the world.</paragraph>
+      </comments>
+      <history>
+        <paragraph>A regional specialty of Berlin; referred to by Napoleon's troops in 1809 as "the Champagne of the North" due to its lively and elegant character. At one point, it was smoked and there used to be Märzen-strength (14 °P) version. Increasingly rare in German, but some American craft breweries now regularly produce the style.</paragraph>
+      </history>
+      <characteristicingredients>
+        <paragraph>Wheat malt content is typically 50% of the grist (as is tradition with all German wheat beers) with the remainder typically being Pilsner malt. A symbiotic fermentation with top-fermenting yeast and *Lactobacillus *(various strains) provides the sharp sourness, which may be enhanced by blending of beers of different ages during fermentation and by extended cool aging. Hop bitterness is non-existent. Decoction mashing with mash hopping is traditional. German brewing scientists believe that *Brettanomyces* is essential to get the correct flavor profile, but this character is never strong.</paragraph>
+      </characteristicingredients>
+      <stylecomparison>
+        <paragraph>Compared to a lambic, is generally not as acidic and has a clean lactic sourness with restrained to below sensory threshold funk. Also lower in alcohol content.</paragraph>
+      </stylecomparison>
+      <vitalstatistics>
+        <OG high="1.032" low="1.028"/>
+        <FG high="1.006" low="1.003"/>
+        <IBUs high="8" low="3"/>
+        <SRM high="3" low="2"/>
+        <ABV high="3.8" low="2.8"/>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example>Bayerischer Bahnhof Berliner Style Weisse</commercial_example>
+        <commercial_example>Berliner Kindl Weisse</commercial_example>
+        <commercial_example>Nodding Head Berliner Weisse</commercial_example>
+        <commercial_example>The Bruery Hottenroth</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>session-beer</tag>
+        <tag>pale-color</tag>
+        <tag>top-fermented</tag>
+        <tag>central-europe</tag>
+        <tag>traditional-style</tag>
+        <tag>wheat-beer-family</tag>
+        <tag>sour</tag>
+      </tags>
+    </style>
+    <style style_id="23B" style_name="Flanders Red Ale">
+      <overallimpression>
+        <paragraph>A sour, fruity, red wine-like Belgian-style ale with interesting supportive malt flavors and fruit complexity. The dry finish and tannin completes the mental image of a fine red wine.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>Complex fruity-sour profile with supporting malt that often gives a wine-like impression. Fruitiness is high, and reminiscent of black cherries, oranges, plums or red currants. There are often low to medium-low vanilla and/or chocolate notes. Spicy phenols can be present in low amounts for complexity. The sour aroma ranges from balanced to intense. Prominent vinegary acetic character is inappropriate. No hop aroma. Diacetyl is perceived only in very minor quantities, if at all, as a complementary aroma.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Deep red, burgundy to reddish-brown in color. Good clarity. White to very pale tan head. Average to good head retention.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Intense fruitiness commonly includes plum, orange, black cherry or red currant flavors. A mild vanilla and/or chocolate character is often present. Spicy phenols can be present in low amounts for complexity. Sour flavor ranges from complementary to intense, and can have an acidic bite. Malty flavors range from complementary to prominent, and often have a soft toasty-rich quality. Generally as the sour character increases, the malt character blends to more of a background flavor (and vice versa). No hop flavor. Restrained hop bitterness. An acidic, tannic bitterness is often present in low to moderate amounts, and adds an aged red wine-like character and finish. Prominent vinegary acetic character is inappropriate. Diacetyl is perceived only in very minor quantities, if at all, as a complementary flavor. Balanced to the malt side, but dominated by the fruity, sour, wine-like impression.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Medium bodied. Low to medium carbonation. Low to medium astringency, like a well-aged red wine, often with a prickly acidity. Deceivingly light and crisp on the palate although a somewhat sweet finish is not uncommon.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>Long aging and blending of young and well-aged beer often occurs, adding to the smoothness and complexity, though the aged product is sometimes released as a connoisseur's beer. Known as the Burgundy of Belgium, it is more wine-like than any other beer style. The reddish color is a product of the malt although an extended, less-than-rolling portion of the boil may help add an attractive Burgundy hue. Aging will also darken the beer. The Flanders red is more acetic (but never vinegar-like) and the fruity flavors more reminiscent of a red wine than an Oud Bruin. Can have an apparent attenuation of up to 98%.</paragraph>
+      </comments>
+      <history>
+        <paragraph>An indigenous beer of West Flanders, typified by the products of the Rodenbach brewery, established in 1820 in West Flanders but reflective of earlier brewing traditions. The beer is aged for up to two years, often in huge oaken barrels which contain the resident bacteria necessary to sour the beer. It was once common in Belgium and England to blend old beer with young to balance the sourness and acidity found in aged beer. While blending of batches for consistency is now common among larger breweries, this type of blending is a fading art.</paragraph>
+      </history>
+      <characteristicingredients>
+        <paragraph>A base of Vienna and/or Munich malts, light to medium cara-malts, and a small amount of Special B are used with up to 20% maize. Low alpha acid continental hops are commonly used (avoid high alpha or distinctive American hops). Saccharomyces, Lactobacillus and Brettanomyces (and acetobacter) contribute to the fermentation and eventual flavor.</paragraph>
+      </characteristicingredients>
+      <stylecomparison>
+        <paragraph>Less malty-rich than an Oud Bruin, often with more of a fruity-tart profile.</paragraph>
+      </stylecomparison>
+      <vitalstatistics>
+        <OG high="1.057" low="1.048"/>
+        <FG high="1.012" low="1.002"/>
+        <IBUs high="25" low="10"/>
+        <SRM high="16" low="10"/>
+        <ABV high="6.5" low="4.6"/>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example>Cuvée des Jacobins Rouge</commercial_example>
+        <commercial_example>Duchesse de Bourgogne</commercial_example>
+        <commercial_example>Rodenbach Grand Cru</commercial_example>
+        <commercial_example>Rodenbach Klassiek</commercial_example>
+        <commercial_example>Vichtenaar Flemish Ale</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>standard-strength</tag>
+        <tag>amber-color</tag>
+        <tag>top-fermenting</tag>
+        <tag>western-europe</tag>
+        <tag>traditional-style</tag>
+        <tag>sour-ale-family</tag>
+        <tag>balanced</tag>
+        <tag>sour</tag>
+        <tag>wood</tag>
+      </tags>
+    </style>
+    <style style_id="23C" style_name="Oud Bruin">
+      <overallimpression>
+        <paragraph>A malty, fruity, aged, somewhat sour Belgian-style brown ale.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>Complex combination of fruity esters and rich malt character. Medium to medium-high esters commonly reminiscent of raisins, plums, figs, dates, black cherries or prunes. Medium low to medium high malt character of caramel, toffee, orange, treacle or chocolate. Spicy phenols can be present in low amounts for complexity. A sherry-like character may be present and generally denotes an aged example. A low sour aroma may be present, and can modestly increase with age but should not grow to a noticeable acetic/vinegary character. Hop aroma absent. Diacetyl is perceived only in very minor quantities, if at all, as a complementary aroma.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Dark reddish-brown to brown in color. Good clarity. Average to good head retention. Ivory to light tan head color.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Malty with fruity complexity and typically some caramel character. Medium to medium-high fruitiness commonly includes dark or dried fruit such as raisins, plums, figs, dates, black cherries or prunes. Medium low to medium high malt character of caramel, toffee, orange, treacle or chocolate. Spicy phenols can be present in low amounts for complexity. A slight sourness often becomes more pronounced in well-aged examples, along with some sherry-like character, producing a "sweet-and-sour" profile. The sourness should not grow to a notable acetic/vinegary character. Hop flavor absent. Restrained hop bitterness. Low oxidation is appropriate as a point of complexity. Diacetyl is perceived only in very minor quantities, if at all, as a complementary flavor. Balance is malty, but with fruitiness and sourness present. Sweet and tart finish</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Medium to medium-full body. Low to moderate carbonation. No astringency.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>Long aging and blending of young and aged beer may occur, adding smoothness and complexity and balancing any harsh, sour character. This style was designed to lay down so examples with a moderate aged character are considered superior to younger examples. As in fruit lambics, Oud Bruin can be used as a base for fruit-flavored beers such as *kriek* (cherries) or *frambozen* (raspberries), though these should be entered in the *Classic-Style Fruit Beer *category.</paragraph>
+      </comments>
+      <history>
+        <paragraph>An "old ale" tradition, indigenous to East Flanders, typified by the products of the Liefman brewery (now owned by Riva), which has roots back to the 1600s. Historically brewed as a "provision beer" that would develop some sourness as it aged. These beers were typically more sour than current commercial examples. While Flanders red beers are aged in oak, the brown beers are warm aged in stainless steel.</paragraph>
+      </history>
+      <characteristicingredients>
+        <paragraph>A base of Pils malt with judicious amounts of dark cara malts and a tiny bit of black or roast malt. Often includes maize. Low alpha acid continental hops are typical (avoid high alpha or distinctive American hops). Saccharomyces and Lactobacillus (and acetobacter) contribute to the fermentation and eventual flavor. Lactobacillus reacts poorly to elevated levels of alcohol. Water high in carbonates is typical of its home region and will buffer the acidity of darker malts and the lactic sourness. Magnesium in the water accentuates the sourness.</paragraph>
+      </characteristicingredients>
+      <stylecomparison>
+        <paragraph>A deeper malt character distinguishes these beers from Flanders red ales. The Oud Bruin is less acetic and maltier than a Flanders Red, and the fruity flavors are more malt-oriented.</paragraph>
+      </stylecomparison>
+      <vitalstatistics>
+        <OG high="1.074" low="1.040"/>
+        <FG high="1.012" low="1.008"/>
+        <IBUs high="25" low="20"/>
+        <SRM high="22" low="15"/>
+        <ABV high="8.0" low="4.0"/>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example>Ichtegem Oud Bruin</commercial_example>
+        <commercial_example>Liefmans Goudenband</commercial_example>
+        <commercial_example>Liefmans Liefmans Oud Bruin</commercial_example>
+        <commercial_example>Petrus Oud Bruin</commercial_example>
+        <commercial_example>Riva Vondel</commercial_example>
+        <commercial_example>Vanderghinste Bellegems Bruin</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>standard-strength</tag>
+        <tag>dark-color</tag>
+        <tag>top-fermented</tag>
+        <tag>western-europe</tag>
+        <tag>traditional-style</tag>
+        <tag>sour-ale-family</tag>
+        <tag>malty</tag>
+        <tag>sour</tag>
+      </tags>
+    </style>
+    <style style_id="23D" style_name="Lambic">
+      <overallimpression>
+        <paragraph>A fairly sour, often moderately funky wild Belgian wheat beer with sourness taking the place of hop bitterness in the balance. Traditionally spontaneously fermented in the Brussels area and served uncarbonated, the refreshing acidity makes for a very pleasant café drink.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>A decidedly sour aroma is often dominant in young examples, but may become more subdued with age as it blends with aromas described as barnyard, earthy, goaty, hay, horsey, and horse blanket. A mild citrus-fruity aroma is considered favorable. An enteric, smoky, cigar-like, or cheesy aroma is unfavorable. Older versions are commonly fruity with aromas of apples or even honey. No hop aroma.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Pale yellow to deep golden in color; age tends to darken the beer. Clarity is hazy to good. Younger versions are often cloudy, while older ones are generally clear. White colored head generally has poor retention.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Young examples are often noticeably lactic-sour, but aging can bring this character more in balance with the malt, wheat and barnyard characteristics. Fruity flavors are simpler in young lambics and more complex in the older examples, where they are reminiscent of apples or other light fruits, rhubarb, or honey. Some citrus flavor (often grapefruit) is occasionally noticeable, and is desirable. The malt and wheat character are typically low with some bready-grainy notes. An enteric, smoky or cigar-like character is undesirable. Hop bitterness is low to none, and generally undetectable; sourness provides the balance. Typically has a dry finish. No hop flavor.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Light to medium-light body. In spite of the low finishing gravity, the many mouth-filling flavors prevent the beer from feeling like water. As a rule of thumb, lambic dries with age, which makes dryness a reasonable indicator of age. Has a medium to high tart, puckering quality without being sharply astringent. Traditional versions are virtually to completely uncarbonated, but bottled examples can pick up moderate carbonation with age.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>Straight lambics are single-batch, unblended beers. Since they are unblended, the straight lambic is often a true product of the "house character" of a brewery and will be more variable than a gueuze. They are generally served young (6 months) and on tap as cheap, easy-drinking beers without any filling carbonation. Younger versions tend to be one-dimensionally sour since a complex Brett character often takes upwards of a year to develop. An enteric character is often indicative of a lambic that is too young. A noticeable vinegary or cidery character is considered a fault by Belgian brewers. Since the wild yeast and bacteria will ferment ALL sugars, they are typically bottled only when they have completely fermented.</paragraph>
+      </comments>
+      <history>
+        <paragraph>Spontaneously fermented wild ales from the area in and around Brussels (the Senne Valley) stem from a farmhouse brewing tradition several centuries old. The number of producers is constantly dwindling.</paragraph>
+      </history>
+      <characteristicingredients>
+        <paragraph>Unmalted wheat (30-40%), Pilsner malt and aged hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditionally these beers are spontaneously fermented with naturally occurring yeast and bacteria in predominately oaken barrels. The barrels used are neutral with little oak character, so don't expect a fresh or forward oak character -- more neutral is typical. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including *Saccharomyces, Brettanomyces, Pediococcus *and *Lactobacillus* in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.</paragraph>
+      </characteristicingredients>
+      <stylecomparison>
+        <paragraph>Generally has a more simple sourness and complexity than a gueuze. Traditionally served uncarbonated from pitchers, while gueuze is bottled and very highly carbonated.</paragraph>
+      </stylecomparison>
+      <vitalstatistics>
+        <OG high="1.054" low="1.040"/>
+        <FG high="1.010" low="1.001"/>
+        <IBUs high="10" low="0"/>
+        <SRM high="7" low="3"/>
+        <ABV high="6.5" low="5.0"/>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example group="5 years">lambic. In and around Brussels there are specialty cafes that often have draught lambics from traditional brewers or blenders such as Boon</commercial_example>
+        <commercial_example group="5 years">De Cam</commercial_example>
+        <commercial_example group="5 years">Cantillon</commercial_example>
+        <commercial_example group="5 years">Drie Fonteinen</commercial_example>
+        <commercial_example group="5 years">Lindemans</commercial_example>
+        <commercial_example group="5 years">Timmermans and Girardin.</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>standard-strength</tag>
+        <tag>pale-color</tag>
+        <tag>wild-fermented</tag>
+        <tag>western-europe</tag>
+        <tag>traditional-style</tag>
+        <tag>wheat-beer-family</tag>
+        <tag>sour</tag>
+      </tags>
+    </style>
+    <style style_id="23E" style_name="Gueuze">
+      <overallimpression>
+        <paragraph>A complex, pleasantly sour but balanced wild Belgian wheat beer that is highly carbonated and very refreshing. The spontaneous fermentation character can provide a very interesting complexity, with a wide range of wild barnyard, horse blanket, or leather characteristics intermingling with citrusy-fruity flavors and acidity.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>A moderately sour aroma blends with aromas described as barnyard, leather, earthy, goaty, hay, horsey, and horse blanket. While some may be more dominantly sour, balance is the key and denotes a better gueuze. Commonly fruity with aromas of citrus fruits (often grapefruit), apples or other light fruits, rhubarb, or honey. A very mild oak aroma is considered favorable. An enteric, smoky, cigar-like, or cheesy aroma is unfavorable. No hop aroma.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Golden color, with excellent clarity and a thick, rocky, mousse-like, white head that seems to last forever. Always effervescent.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>A moderately sour character is classically in balance with the malt, wheat and barnyard characteristics. A low, complementary sweetness may be present but higher levels are not traditional. While some may be more dominantly sour, balance is the key and denotes a better gueuze. A varied fruit flavor is common, and can have a honey-like character. A mild vanilla and/or oak flavor is occasionally noticeable. The malt is generally low and bready-grainy. An enteric, smoky or cigar-like character is undesirable. Hop bitterness is generally absent but a very low hop bitterness may occasionally be perceived; sourness provides most of the balance. Crisp, dry, and tart finish. No hop flavor.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Light to medium-light body. In spite of the low finishing gravity, the many mouth-filling flavors prevent the beer from feeling like water. Has a low to high tart, puckering quality without being sharply astringent. Some versions have a light warming character. Highly carbonated.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>Gueuze is traditionally produced by mixing one, two, and three-year old lambic. "Young" lambic contains fermentable sugars while old lambic has the characteristic "wild" taste of the Senne River valley. A noticeable vinegary or cidery character is considered a fault by Belgian brewers. A good gueuze is not the most pungent, but possesses a full and tantalizing bouquet, a sharp aroma, and a soft, velvety flavor. Lambic is served uncarbonated, while gueuze is served effervescent. Products marked *oude* or *ville* are considered most traditional.</paragraph>
+      </comments>
+      <history>
+        <paragraph>Spontaneously fermented wild ales from the area in and around Brussels (the Senne Valley) stem from a farmhouse brewing and blending tradition several centuries old. The number of producers is constantly dwindling and some producers are untraditionally sweetening their products (post-fermentation) to make them more palatable to a wider audience. These guidelines describe the traditional dry product.</paragraph>
+      </history>
+      <characteristicingredients>
+        <paragraph>Unmalted wheat (30-40%), Pilsner malt and aged hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditionally these beers are spontaneously fermented with naturally occurring yeast and bacteria in predominately oaken barrels. The barrels used are old and have little oak character, so don't expect a fresh or forward oak character -- more neutral is typical. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including Saccharomyces, Brettanomyces, Pediococcus and Lactobacillus in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.</paragraph>
+      </characteristicingredients>
+      <stylecomparison>
+        <paragraph>More complex and carbonated than a lambic. The sourness isn't necessarily higher, but it tends to have more of a well-developed wild character.</paragraph>
+      </stylecomparison>
+      <vitalstatistics>
+        <OG high="1.060" low="1.040"/>
+        <FG high="1.006" low="1.000"/>
+        <IBUs high="10" low="0"/>
+        <SRM high="7" low="3"/>
+        <ABV high="8.0" low="5.0"/>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example group="Black Label), Hanssens Oude Gueuze, Lindemans Gueuze Cuvée René, Mort Subite (Unfiltered">Gueuze</commercial_example>
+        <commercial_example group="Black Label), Hanssens Oude Gueuze, Lindemans Gueuze Cuvée René, Mort Subite (Unfiltered">Oud Beersel Oude Gueuze</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>high-strength</tag>
+        <tag>pale-color</tag>
+        <tag>wild-fermented</tag>
+        <tag>western-europe</tag>
+        <tag>traditional-style</tag>
+        <tag>wheat-beer-family</tag>
+        <tag>aged</tag>
+        <tag>sour</tag>
+      </tags>
+    </style>
+    <style style_id="23F" style_name="Fruit Lambic">
+      <overallimpression>
+        <paragraph>A complex, fruity, pleasantly sour, wild wheat ale fermented by a variety of Belgian microbiota, and showcasing the fruit contributions blended with the wild character. The type of fruit can sometimes be hard to identify as fermented and aged fruit characteristics can seem different from the more recognizable fresh fruit aromas and flavors.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>The specified fruit should be the dominant aroma. A low to moderately sour character blends with aromas described as barnyard, earthy, goaty, hay, horsey, and horse blanket (and thus should be recognizable as a lambic). The fruit aroma commonly blends well with the other aromas. An enteric, smoky, cigar-like, or cheesy aroma is unfavorable. No hop aroma.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>The variety of fruit generally determines the color, although lighter-colored fruit may have little effect on the color. The color intensity may fade with age. Clarity is often good, although some fruit will not drop bright. A thick rocky, mousse-like head, sometimes a shade of fruit, is generally long-lasting (carbonation-dependent). Carbonation is typically high, but must be specified.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>The specified fruit should be evident. Low to moderately sour flavor, often with an acidic bite in the finish. The classic barnyard characteristics may be low to high. When young, the beer will present its full fruity taste. As it ages, the lambic taste will become dominant at the expense of the fruit character—thus fruit lambics are not intended for long aging. The finish is commonly dry and tart, but a low, complementary sweetness may be present; higher sweetness levels are not traditional but can be included for personal preference (sweetness level must be specified). A mild vanilla and/or oak flavor is occasionally noticeable. An enteric, smoky or cigar-like character is undesirable. Hop bitterness is generally absent; acidity provides the balance. No hop flavor.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Light to medium-light body. In spite of the low finishing gravity, the many mouth-filling flavors prevent the beer from tasting like water. Has a low to high tart, puckering quality without being sharply astringent. Some versions have a light warming character. Carbonation can vary from sparkling to nearly still (must be specified).</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>Fruit-based lambics are often produced like gueuze by mixing one, two, and three-year old lambic. "Young" lambic contains fermentable sugars while old lambic has the characteristic "wild" taste of the Senne River valley. Fruit is commonly added halfway through aging and the yeast and bacteria will ferment all sugars from the fruit. Fruit may also be added to unblended lambic. The most traditional styles of fruit lambics include *kriek* (cherries), *framboise* (raspberries) and *druivenlambik* (muscat grapes). IBUs are approximate since aged hops are used; Belgians use hops for anti-bacterial properties more than bittering in lambics.</paragraph>
+      </comments>
+      <history>
+        <paragraph>Spontaneously fermented wild ales from the area in and around Brussels (the Senne Valley) stem from a farmhouse brewing and blending tradition several centuries old. The number of producers is constantly dwindling and some are untraditionally sweetening their products (post-fermentation) with sugar or sweet fruit to make them more palatable to a wider audience. Fruit was traditionally added to lambic or gueuze, either by the blender or publican, to increase the variety of beers available in local cafes.</paragraph>
+      </history>
+      <characteristicingredients>
+        <paragraph>Unmalted wheat (30-40%), Pilsner malt and aged hops (3 years) are used. The aged hops are used more for preservative effects than bitterness, and makes actual bitterness levels difficult to estimate. Traditional products use 10-30% fruit (25%, if cherry). Fruits traditionally used include tart cherries (with pits), raspberries or Muscat grapes. More recent examples include peaches, apricots or merlot grapes. Tart or acidic fruit is traditionally used as its purpose is not to sweeten the beer but to add a new dimension. Traditionally these beers are spontaneously fermented with naturally occurring yeast and bacteria in predominately oaken barrels. The barrels used are old and have little oak character, so don't expect a fresh or forward oak character -- more neutral is typical. Home-brewed and craft-brewed versions are more typically made with pure cultures of yeast commonly including Saccharomyces, Brettanomyces, Pediococcus and Lactobacillus in an attempt to recreate the effects of the dominant microbiota of Brussels and the surrounding countryside of the Senne River valley. Cultures taken from bottles are sometimes used but there is no simple way of knowing what organisms are still viable.</paragraph>
+      </characteristicingredients>
+      <stylecomparison>
+        <paragraph>A lambic with fruit, not just a fruit beer; the wild lambic character must be evident.</paragraph>
+      </stylecomparison>
+      <entryinstructions>
+        <paragraph>The *type of fruit *used **must** be specified. The brewer **must** declare a *carbonation *level (low, medium, high) and a *sweetness* level (low/none, medium, high).</paragraph>
+      </entryinstructions>
+      <vitalstatistics>
+        <OG high="1.060" low="1.040"/>
+        <FG high="1.010" low="1.000"/>
+        <IBUs high="10" low="0"/>
+        <SRM high="7" low="3">(varies w/ fruit)  </SRM>
+        <ABV high="7.0" low="5.0"/>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example>Boon Framboise Marriage Parfait</commercial_example>
+        <commercial_example>Boon Kriek Mariage Parfait</commercial_example>
+        <commercial_example>Boon Oude Kriek</commercial_example>
+        <commercial_example>Cantillon Fou' Foune</commercial_example>
+        <commercial_example>Cantillon Kriek</commercial_example>
+        <commercial_example>Cantillon Lou Pepe Kriek</commercial_example>
+        <commercial_example>Cantillon Lou Pepe Framboise</commercial_example>
+        <commercial_example>Cantillon Rose de Gambrinus</commercial_example>
+        <commercial_example>Cantillon St. Lamvinus</commercial_example>
+        <commercial_example>Cantillon Vigneronne</commercial_example>
+        <commercial_example>De Cam Oude Kriek</commercial_example>
+        <commercial_example>Drie Fonteinen Kriek</commercial_example>
+        <commercial_example>Girardin Kriek</commercial_example>
+        <commercial_example>Hanssens Oude Kriek</commercial_example>
+        <commercial_example>Oud Beersel Kriek</commercial_example>
+        <commercial_example>Mort Subite Kriek</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>standard-strength</tag>
+        <tag>pale-color</tag>
+        <tag>wild-fermented</tag>
+        <tag>western-europe</tag>
+        <tag>traditional-style</tag>
+        <tag>wheat-beer-family</tag>
+        <tag>sour</tag>
+        <tag>fruit</tag>
+      </tags>
+    </style>
+  </category>
+</doc>

@@ -1,0 +1,173 @@
+<doc>
+  <category name="American Porter and Stout" number="20">
+    <paragraph>*These beers all evolved from their English namesakes to be wholly transformed by American craft brewers. Generally, these styles are bigger, stronger, more roast-forward, and more hop-centric than their Anglo cousins. These styles are grouped together due to a similar shared history and flavor profile.*</paragraph>
+    <style style_id="20A" style_name="American Porter">
+      <overallimpression>
+        <paragraph>A substantial, malty dark beer with a complex and flavorful dark malt character.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>Medium-light to medium-strong dark malt aroma, often with a lightly burnt character. Optionally may also show some additional malt character in support (grainy, bready, toffee-like, caramelly, chocolate, coffee, rich, and/or sweet). Hop aroma low to high, often with a resiny, earthy, or floral character. May be dry-hopped. Fruity esters are moderate to none.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Medium brown to very dark brown, often with ruby- or garnet-like highlights. Can approach black in color. Clarity may be difficult to discern in such a dark beer, but when not opaque will be clear (particularly when held up to the light). Full, tan-colored head with moderately good head retention.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Moderately strong malt flavor usually features a lightly burnt malt character (and sometimes chocolate and/or coffee flavors) with a bit of grainy, dark malt dryness in the finish. Overall flavor may finish from dry to medium-sweet. May have a sharp character from dark roasted grains, but should not be overly acrid, burnt or harsh. Medium to high bitterness, which can be accentuated by the dark malt. Hop flavor can vary from low to high with a resiny, earthy, or floral character, and balances the dark malt flavors. The dark malt and hops should not clash. Dry-hopped versions may have a resiny flavor. Fruity esters moderate to none.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Medium to medium-full body. Moderately low to moderately high carbonation. Stronger versions may have a slight alcohol warmth. May have a slight astringency from dark malts, although this character should not be strong.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>Although a rather broad style open to brewer interpretation. Dark malt intensity and flavor can vary significantly. May or may not have a strong hop character, and may or may not have significant fermentation by-products; thus may seem to have an "American" or "British" character.</paragraph>
+      </comments>
+      <history>
+        <paragraph>A stronger, more aggressive version of pre-prohibition porters and/or English porters developed in the modern craft beer era. Historical versions existed, particularly on the US East Coast, some of which are still being produced (see the Historical Beer, Pre-Prohibition Porter). This style describes the modern craft version.</paragraph>
+      </history>
+      <characteristicingredients>
+        <paragraph>May contain several malts, prominently dark malts, which often include black malt (chocolate malt is also often used). American hops typically used for bittering, but US or UK finishing hops can be used; a clashing citrus quality is generally undesirable. Ale yeast can either be clean US versions or characterful English varieties.</paragraph>
+      </characteristicingredients>
+      <stylecomparison>
+        <paragraph>More bitter and often stronger with more dark malt qualities and dryness than English Porters or Pre-Prohibition Porters. Less strong and assertive than American Stouts.</paragraph>
+      </stylecomparison>
+      <vitalstatistics>
+        <OG high="1.070" low="1.050"/>
+        <FG high="1.018" low="1.012"/>
+        <IBUs high="50" low="25"/>
+        <SRM high="40" low="22"/>
+        <ABV high="6.5" low="4.8"/>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example>Anchor Porter</commercial_example>
+        <commercial_example>Boulevard Bully! Porter</commercial_example>
+        <commercial_example>Deschutes Black Butte Porter</commercial_example>
+        <commercial_example>Founders Porter</commercial_example>
+        <commercial_example>Great Lakes Edmund Fitzgerald Porter</commercial_example>
+        <commercial_example>Smuttynose Robust Porter</commercial_example>
+        <commercial_example>Sierra Nevada Porter</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>standard-strength</tag>
+        <tag>dark-color</tag>
+        <tag>top-fermented</tag>
+        <tag>north-america</tag>
+        <tag>craft-style</tag>
+        <tag>porter-family</tag>
+        <tag>bitter</tag>
+        <tag>roasty</tag>
+        <tag>hoppy</tag>
+      </tags>
+    </style>
+    <style style_id="20B" style_name="American Stout">
+      <overallimpression>
+        <paragraph>A fairly strong, highly roasted, bitter, hoppy dark stout. Has the body and dark flavors typical of stouts with a more aggressive American hop character and bitterness.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>Moderate to strong aroma of roasted malts, often having a roasted coffee or dark chocolate quality. Burnt or charcoal aromas are acceptable at low levels. Medium to very low hop aroma, often with a citrusy or resiny character. Medium to no esters. Light alcohol-derived aromatics are also optional.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Generally a jet black color, although some may appear very dark brown. Large, persistent head of light tan to light brown in color. Usually opaque.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Moderate to very high roasted malt flavors, often tasting of coffee, roasted coffee beans, dark or bittersweet chocolate. May have the flavor of slightly burnt coffee grounds, but this character should not be prominent. Low to medium malt sweetness, often with rich chocolate or caramel flavors. Medium to high bitterness. Low to high hop flavor, generally citrusy or resiny. Low to no esters. Medium to dry finish, occasionally with a lightly burnt quality. Alcohol flavors can be present up to medium levels, but smooth.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Medium to full body. Can be somewhat creamy, particularly if a small amount of oats have been used to enhance mouthfeel. Can have a bit of roast-derived astringency, but this character should not be excessive. Medium-high to high carbonation. Light to moderately strong alcohol warmth, but smooth and not excessively hot.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>Breweries express individuality through varying the roasted malt profile, malt sweetness and flavor, and the amount of finishing hops used. Generally has bolder roasted malt flavors and hopping than other traditional stouts (except Imperial Stouts).</paragraph>
+      </comments>
+      <history>
+        <paragraph>A modern craft beer and homebrew style that applied an aggressive American hoping regime to a strong traditional English or Irish stout. The homebrew version was previously known as West Coast Stout, which is a common naming scheme for a more highly-hopped beer.</paragraph>
+      </history>
+      <characteristicingredients>
+        <paragraph>Common American base malts and yeast. Varied use of dark and roasted malts, as well as caramel-type malts. Adjuncts such as oatmeal may be present in low quantities. American hop varieties.</paragraph>
+      </characteristicingredients>
+      <stylecomparison>
+        <paragraph>Like a hoppy, bitter, strongly roasted Extra or Export Stout. Much more roast and body than a Black IPA. Bigger, stronger versions belong in the Russian Imperial Stout style. Stronger and more assertive, particularly in the dark malt/grain additions and hop character, than American Porter.</paragraph>
+      </stylecomparison>
+      <vitalstatistics>
+        <OG high="1.075" low="1.050"/>
+        <FG high="1.022" low="1.010"/>
+        <IBUs high="75" low="35"/>
+        <SRM high="40" low="30"/>
+        <ABV high="7.0" low="5.0"/>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example>Avery Out of Bounds Stout</commercial_example>
+        <commercial_example>Deschutes Obsidian Stout</commercial_example>
+        <commercial_example>North Coast Old No. 38</commercial_example>
+        <commercial_example>Rogue Shakespeare Stout</commercial_example>
+        <commercial_example>Sierra Nevada Stout</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>high-strength</tag>
+        <tag>dark-color</tag>
+        <tag>top-fermented</tag>
+        <tag>north-america</tag>
+        <tag>craft-style</tag>
+        <tag>stout-family</tag>
+        <tag>bitter</tag>
+        <tag>roasty</tag>
+        <tag>hoppy</tag>
+      </tags>
+    </style>
+    <style style_id="20C" style_name="Imperial Stout">
+      <overallimpression>
+        <paragraph>An intensely-flavored, big, dark ale with a wide range of flavor balances and regional interpretations. Roasty-burnt malt with deep dark or dried fruit flavors, and a warming, bittersweet finish. Despite the intense flavors, the components need to meld together to create a complex, harmonious beer, not a hot mess.</paragraph>
+      </overallimpression>
+      <aroma>
+        <paragraph>Rich and complex, with variable amounts of roasted grains, maltiness, fruity esters, hops, and alcohol. The roasted malt character can take on coffee, dark chocolate, or slightly burnt tones and can be light to moderately strong. The malt aroma can be subtle to rich and barleywine-like. May optionally show a slight specialty malt character (e.g., caramel), but this should only add complexity and not dominate. Fruity esters may be low to moderately strong, and may take on a complex, dark fruit (e.g., plums, prunes, raisins) character. Hop aroma can be very low to quite aggressive, and may contain any hop variety. An alcohol character may be present, but shouldn't be sharp, hot, or solventy. Aged versions may have a slight vinous or port-like quality, but shouldn't be sour. The balance can vary with any of the aroma elements taking center stage. Not all possible aromas described need be present; many interpretations are possible. Aging affects the intensity, balance and smoothness of aromatics.</paragraph>
+      </aroma>
+      <appearance>
+        <paragraph>Color may range from very dark reddish-brown to jet black. Opaque. Deep tan to dark brown head. Generally has a well-formed head, although head retention may be low to moderate. High alcohol and viscosity may be visible in "legs" when beer is swirled in a glass.</paragraph>
+      </appearance>
+      <flavor>
+        <paragraph>Rich, deep, complex and frequently quite intense, with variable amounts of roasted malt/grains, maltiness, fruity esters, hop bitterness and flavor, and alcohol. Medium to aggressively high bitterness. Medium-low to high hop flavor (any variety). Moderate to aggressively high roasted malt/grain flavors can suggest bittersweet or unsweetened chocolate, cocoa, and/or strong coffee. A slightly burnt grain, burnt currant or tarry character may be evident. Fruity esters may be low to intense, and can take on a dark fruit character (raisins, plums, or prunes). Malt backbone can be balanced and supportive to rich and barleywine-like, and may optionally show some supporting caramel, bready or toasty flavors. The palate and finish can vary from relatively dry to moderately sweet, usually with some lingering roastiness, hop bitterness and warming character. The balance and intensity of flavors can be affected by aging, with some flavors becoming more subdued over time and some aged, vinous or port-like qualities developing.</paragraph>
+      </flavor>
+      <mouthfeel>
+        <paragraph>Full to very full-bodied and chewy, with a velvety, luscious texture (although the body may decline with long conditioning). Gentle smooth warmth from alcohol should be present and noticeable, but not a primary characteristic; in well-conditioned versions, the alcohol can be deceptive. Should not be syrupy or under-attenuated. Carbonation may be low to moderate, depending on age and conditioning.</paragraph>
+      </mouthfeel>
+      <comments>
+        <paragraph>*Traditionally an English style, but it is currently much more popular and widely available in America where it is a craft beer favorite, not a curiosity.* Variations exist, with English and American interpretations (predictably, the American versions have more bitterness, roasted character, and finishing hops, while the English varieties reflect a more complex specialty malt character and a more forward ester profile). Not all Imperial Stouts have a clearly 'English' or 'American' character; anything in between the two variants are allowable as well, which is why it is counter-productive to designate a sub-type when entering a competition. The wide range of allowable characteristics allow for maximum brewer creativity. Judges must be aware of the broad range of the style, and not try to judge all examples as clones of a specific commercial beer.</paragraph>
+      </comments>
+      <history>
+        <paragraph>A style with a long, although not necessarily continuous, heritage. Traces roots to strong English porters brewed for export in the 1700s, and said to have been popular with the Russian Imperial Court. After the Napoleonic wars interrupted trade, these beers were increasingly sold in England. The style eventually all but died out, until being popularly embraced in the modern craft beer era, both in England as a revival and in the United States as a reinterpretation or re-imagination by extending the style with American characteristics.</paragraph>
+      </history>
+      <characteristicingredients>
+        <paragraph>Well-modified pale malt, with generous quantities of roasted malts and/or grain. May have a complex grain bill using virtually any variety of malt. Any type of hops may be used. American or English ale yeast.</paragraph>
+      </characteristicingredients>
+      <stylecomparison>
+        <paragraph>Like a black barleywine with every dimension of flavor coming into play. More complex, with a broader range of possible flavors than lower-gravity stouts.</paragraph>
+      </stylecomparison>
+      <vitalstatistics>
+        <OG high="1.115" low="1.075"/>
+        <FG high="1.030" low="1.018"/>
+        <IBUs high="90" low="50"/>
+        <SRM high="40" low="30"/>
+        <ABV high="12.0" low="8.0"/>
+      </vitalstatistics>
+      <commercialexamples>
+        <commercial_example>*'American** Bell's Expedition Stout</commercial_example>
+        <commercial_example>Cigar City Marshal Zhukov's Imperial Stout</commercial_example>
+        <commercial_example>Great Divide Yeti Imperial Stout</commercial_example>
+        <commercial_example>North Coast Old Rasputin Imperial Stout</commercial_example>
+        <commercial_example>Sierra Nevada Narwhal Imperial Stout; **English'* Courage Imperial Russian Stout</commercial_example>
+        <commercial_example>Le Coq Imperial Extra Double Stout</commercial_example>
+        <commercial_example>Samuel Smith Imperial Stout</commercial_example>
+      </commercialexamples>
+      <tags>
+        <tag>very-high-strength</tag>
+        <tag>dark-color</tag>
+        <tag>top-fermented</tag>
+        <tag>british-isles</tag>
+        <tag>north-america</tag>
+        <tag>traditional-style</tag>
+        <tag>craft-style</tag>
+        <tag>stout-family</tag>
+        <tag>malty</tag>
+        <tag>bitter</tag>
+        <tag>roasty</tag>
+      </tags>
+    </style>
+  </category>
+</doc>

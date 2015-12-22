@@ -1,0 +1,127 @@
+#16. Dark British Beer
+
+*This category contains average to strong, bitter to sweet, modern British and Irish stouts that originated in England even if some are now more widely associated with Ireland. In this case, "British" means the broader British Isles not Great Britain.*
+
+##16A. Sweet Stout
+
+**Overall Impression:** A very dark, sweet, full-bodied, slightly roasty ale that can suggest coffee-and-cream, or sweetened espresso.
+
+**Aroma:** Mild roasted grain aroma, sometimes with coffee and/or chocolate notes. An impression of cream-like sweetness often exists. Fruitiness can be low to moderately high. Diacetyl low to none. Hop aroma low to none, with floral or earthy notes.
+
+**Appearance:** Very dark brown to black in color. Can be opaque (if not, it should be clear). Creamy tan to brown head.
+
+**Flavor:** Dark roasted grain/malt impression with coffee and/or chocolate flavors dominate the palate. Hop bitterness is moderate. Medium to high sweetness provides a counterpoint to the roasted character and hop bitterness, and lasts into the finish. Low to moderate fruity esters. Diacetyl low to none. The balance between dark grains/malts and sweetness can vary, from quite sweet to moderately dry and somewhat roasty.
+
+**Mouthfeel:** Medium-full to full-bodied and creamy. Low to moderate carbonation. High residual sweetness from unfermented sugars enhances the full-tasting mouthfeel.
+
+**Comments:** Gravities are low in England, higher in exported and US products. Variations exist, with the level of residual sweetness, the intensity of the roast character, and the balance between the two being the variables most subject to interpretation. Some versions in England are very sweet (low attenuation) and also low in ABV (Tennent's Sweetheart Stout is 2%), but is an outlier compared to the other examples. These guidelines mostly describe the higher gravity, more balanced, export versions rather than the low alcohol, very sweet versions that many find quite difficult to drink.
+
+**History:** An English style of stout developed in the early 1900s. Historically known as "Milk" or "Cream" stouts, legally this designation is no longer permitted in England (but is acceptable elsewhere). The "milk" name is derived from the use of lactose, or milk sugar, as a sweetener. Originally marketed as a tonic for invalids and nursing mothers.
+
+**Characteristic Ingredients:** The sweetness in most Sweet Stouts comes from a lower bitterness level than most other stouts and a high percentage of unfermentable dextrins. Lactose, an unfermentable sugar, is frequently added to provide additional residual sweetness. Base of pale malt, and may use roasted barley, black malt, chocolate malt, crystal malt, and adjuncts such as maize or brewing sugars.
+
+**Style Comparison:** Much sweeter and less bitter than other stouts (except the stronger tropical stout). The roast character is mild, not burnt like other stouts. Somewhat similar in balance to oatmeal stouts, albeit with more sweetness.
+
+**Vital Statistics:**
+OG:1.044 - 1.060  
+FG:1.012 - 1.024  
+IBUs:20 - 40  
+SRM:30 - 40  
+ABV:4.0 - 6.0%
+
+**Commercial Examples:** Bristol Beer Factory Milk Stout, Left Hand Milk Stout, Lancaster Milk Stout, Mackeson's XXX Stout, Marston's Oyster Stout, Samuel Adams Cream Stout
+
+**Tags:** standard-strength, dark-color, top-fermented, british-isles, traditional-style, stout-family, malty, roasty, sweet
+
+##16B. Oatmeal Stout
+
+**Overall Impression:** A very dark, full-bodied, roasty, malty ale with a complementary oatmeal flavor. The sweetness, balance, and oatmeal impression can vary considerably.
+
+**Aroma:** Mild roasted grain aromas, generally with a coffee-like character. A light malty sweetness can suggest a coffee-and-cream impression. Fruitiness should be low to medium-high. Diacetyl medium-low to none. Hop aroma medium-low to none, earthy or floral. A light grainy-nutty oatmeal aroma is optional.
+
+**Appearance:** Medium brown to black in color. Thick, creamy, persistent tan- to brown-colored head. Can be opaque (if not, it should be clear).
+
+**Flavor:** Similar to the aroma, with a mild roasted coffee to coffee-and-cream flavor, and low to moderately-high fruitiness. Oats and dark roasted grains provide some flavor complexity; the oats can add a nutty, grainy or earthy flavor. Dark grains can combine with malt sweetness to give the impression of milk chocolate or coffee with cream. Medium hop bitterness with the balance toward malt. Medium-sweet to medium-dry finish. Diacetyl medium-low to none. Hop flavor medium-low to none, typically earthy or floral.
+
+**Mouthfeel:** Medium-full to full body, with a smooth, silky, velvety, sometimes an almost oily slickness from the oatmeal. Creamy. Medium to medium-high carbonation. 
+
+**Comments:** Generally between Sweet and Irish Stouts in sweetness. Variations exist, from fairly sweet to quite dry, as well as English and American versions (American versions tend to be more hoppy, less sweet, and less fruity). The level of bitterness also varies, as does the oatmeal impression. Light use of oatmeal may give a certain silkiness of body and richness of flavor, while heavy use of oatmeal can be fairly intense in flavor with an almost oily mouthfeel, dryish finish, and slight grainy astringency. When judging, allow for differences in interpretation.
+
+**History:** A variant of nourishing or invalid stouts of the late 1800s using oatmeal in the grist, similar to the development of sweet stout that used lactose. An original Scottish version used a significant amount of oat malt. Later went through a shady phase where some English brewers would throw a handful of oats into their parti-gyled stouts in order to legally produce a 'healthy' Oatmeal Stout for marketing purposes. Most popular in England between the World Wars, was revived in the craft beer era for export, which helped lead to its adoption as a popular modern American craft beer style that uses a noticeable (not symbolic) quantity of oats.
+
+**Characteristic Ingredients:** Pale, caramel and dark roasted malts (often chocolate) and grains. Oatmeal or malted oats (5-20% or more) used to enhance fullness of body and complexity of flavor. Hops primarily for bittering. Can use brewing sugars or syrups. English ale yeast.
+
+**Style Comparison:** Most are like a cross between an Irish Extra Stout and a Sweet Stout with oatmeal added. Several variations exist, with the sweeter versions more like a Sweet Stout with oatmeal instead of lactose, and the drier versions more like a more nutty, flavorful Irish Extra Stout. Both tend to emphasize the body and mouthfeel.
+
+**Vital Statistics:**
+OG:1.045 - 1.065  
+FG:1.010 - 1.018  
+IBUs:25 - 40  
+SRM:22 - 40  
+ABV:4.2 - 5.9%
+
+**Commercial Examples:** Anderson Valley Barney Flats Oatmeal Stout, Broughton Scottish Oatmeal Stout, Figueroa Mountain Stagecoach Stout, St-Ambroise Oatmeal Stout, Samuel Smith Oatmeal Stout, Young's Oatmeal Stout
+
+**Tags:** standard-strength, dark-color, top-fermented, british-isles, traditional-style, stout-family, balanced, roasty
+
+##16C. Tropical Stout
+
+**Overall Impression:** A very dark, sweet, fruity, moderately strong ale with smooth roasty flavors without a burnt harshness.
+
+**Aroma:** Sweetness evident, moderate to high intensity. Roasted grain aromas moderate to high, and can have coffee or chocolate notes. Fruitiness medium to high. May have a molasses, licorice, dried fruit, and/or vinous aromatics. Stronger versions can have a subtle clean aroma of alcohol. Hop aroma low to none. Diacetyl low to none.
+
+**Appearance:** Very deep brown to black in color. Clarity usually obscured by deep color (if not opaque, should be clear). Large tan to brown head with good retention.
+
+**Flavor:** Quite sweet with a smooth dark grain flavors, and restrained bitterness. Roasted grain and malt character can be moderate to high with a smooth coffee or chocolate flavor, although the roast character is moderated in the balance by the sweet finish. Moderate to high fruity esters. Can have a sweet, dark rum-like quality. Little to no hop flavor. Medium-low to no diacetyl.
+
+**Mouthfeel:** Medium-full to full body, often with a smooth, creamy character. May give a warming (but never hot) impression from alcohol presence. Moderate to moderately-high carbonation.
+
+**Comments:** Sweetness levels can vary significantly. Surprisingly refreshing in a hot climate.
+
+**History:** Originally high-gravity stouts brewed for tropical markets, became popular and imitated by local brewers often using local sugars and ingredients.
+
+**Characteristic Ingredients:** Similar to a sweet stout, but with more gravity. Pale and dark roasted malts and grains. Hops mostly for bitterness. May use adjuncts and sugar to boost gravity. Typically made with warm-fermented lager yeast.
+
+**Style Comparison:** Tastes like a scaled-up sweet stout with higher fruitiness. Similar to some Imperial Stouts without the high bitterness, strong/burnt roastiness, and late hops, and with lower alcohol. Much more sweet and less hoppy than American Stouts. Much sweeter and less bitter than the similar-gravity Export Stouts.
+
+**Vital Statistics:**
+OG:1.056 - 1.075  
+FG:1.010 - 1.018  
+IBUs:30 - 50  
+SRM:30 - 40  
+ABV:5.5 - 8.0%
+
+**Commercial Examples:** ABC Extra Stout, Dragon Stout, Jamaica Stout, Lion Stout, Royal Extra Stout
+
+**Tags:** high-strength, dark-color, top-fermented, british-isles, traditional-style, stout-family, malty, roasty, sweet
+
+##16D. Foreign Extra Stout
+
+**Overall Impression:** A very dark, moderately strong, fairly dry, stout with prominent roast flavors.
+
+**Aroma:** Moderate to high roasted grain aromas, often with coffee, chocolate and/or lightly burnt notes. Low to medium fruitiness. May have a sweet aroma, or molasses, licorice, dried fruit, and/or vinous aromatics. Stronger versions can have a subtle, clean aroma of alcohol. Hop aroma moderately low to none, can be earthy, herbal or floral. Diacetyl low to none.
+
+**Appearance:** Very deep brown to black in color. Clarity usually obscured by deep color (if not opaque, should be clear). Large tan to brown head with good retention.
+
+**Flavor:** Moderate to high roasted grain and malt flavor with a coffee, chocolate, or lightly burnt grain character, although without a sharp bite. Moderately dry. Low to medium esters. Medium to high bitterness. Moderate to no hop flavor, can be earthy, herbal, or floral. Diacetyl medium-low to none.
+
+**Mouthfeel:** Medium-full to full body, often with a smooth, sometimes creamy character. May give a warming (but never hot) impression from alcohol presence. Moderate to moderately-high carbonation.
+
+**Comments:** Also known as Foreign Stout, Export Stout, Foreign Export Stout. Historic versions (before WWI, at least) had the same OG as domestic Extra Stouts, but had a higher ABV because it had a long secondary with Brettanomyces chewing away at it. The difference between domestic and foreign versions were the hopping and length of maturation. 
+
+**History:** Stronger stouts brewed for the export market today, but with a history stretching back to the 18th and 19th centuries when they were more heavily-hopped versions of stronger export stouts. Guinness Foreign Extra Stout (originally, West India Porter, later Foreign Extra Double Stout) was first brewed in 1801 according to Guinness with "extra hops to give it a distinctive taste and a longer shelf life in hot weather, this is brewed [today] in Africa, Asia and the Caribbean. It [currently] makes up 40% of all the Guinness brewed around the world." 
+
+**Characteristic Ingredients:** Pale and dark roasted malts and grains, historically also could have used brown and amber malts. Hops mostly for bitterness, typically English varieties. May use adjuncts and sugar to boost gravity.
+
+**Style Comparison:** Similar in balance to an Irish Extra Stout, but with more alcohol. Not as big or intense as a Russian Imperial Stout. Lacking the strong bitterness and high late hops of American Stouts. Similar gravity as Tropical Stout, but with a drier finish, higher bitterness, and less esters.
+
+**Vital Statistics:**
+OG:1.056 - 1.075  
+FG:1.010 - 1.018  
+IBUs:50 - 70  
+SRM:30 - 40  
+ABV:6.3 - 8.0%
+
+**Commercial Examples:** Coopers Best Extra Stout, Guinness Foreign Extra Stout, The Kernel Export Stout, Ridgeway Foreign Export Stout, Southwark Old Stout
+
+**Tags:** high-strength, dark-color, top-fermented, british-isles, traditional-style, stout-family, balanced, roasty
