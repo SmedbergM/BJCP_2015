@@ -43,7 +43,10 @@ if __name__ == "__main__":
     DocTree = etree.ElementTree(DocNode)
 
     MDfname = argv[1]
-    XMLfname = re.sub("\.md",".xml",\
+    if len(argv) > 2:
+        XMLfname = argv[2]
+    else:
+        XMLfname = re.sub("\.md",".xml",
                      re.sub("md/","xml/",MDfname))
 
     build_xml(DocNode, MDfname)
