@@ -1,0 +1,724 @@
+<doc>
+  <appendix title="Appendix A: Alternate Categorizations">
+    <paragraph>*Many have requested alternate categorizations of the BJCP styles since the guidelines may be used for purposes other than homebrew competitions (e.g., education, research, study). To better meet these needs, additional systems have been developed. The alternate categories are listed, along with the current 2015 Styles from the main guidelines.*</paragraph>
+    <alt_categorization number="1" title="Styles Sorted Using 2008 Categories (Strict)">
+      <paragraph>*This system uses the 2008 categories with the equivalent beer styles from the 2015 guidelines. Any 2015 style not present in the 2008 guidelines is categorized as a Category 23 Specialty Beer.*</paragraph>
+      <category name="Light Lager" number="1">
+        <style>1A. American Light Lager</style>
+        <style>1B. American Lager</style>
+        <style>2A. International Pale Lager</style>
+        <style>4A. Munich Helles</style>
+        <style>5C. Helles Exportbier</style>
+      </category>
+      <category name="Pilsner" number="2">
+        <style>5D. German Pils</style>
+        <style>3B. Czech Premium Pale Lager</style>
+        <style>27. Historical Beer (Pre-Prohibition Lager)</style>
+      </category>
+      <category name="European Amber Lager" number="3">
+        <style>7A. Vienna Lager</style>
+        <style>6A. Märzen</style>
+      </category>
+      <category name="Dark Lager" number="4">
+        <style>2C. International Dark Lager</style>
+        <style>8A. Munich Dunkel</style>
+        <style>8B. Schwarzbier</style>
+      </category>
+      <category name="Bock" number="5">
+        <style>4C. Helles Bock</style>
+        <style>6C. Dunkles Bock</style>
+        <style>9A. Doppelbock</style>
+        <style>9B. Eisbock</style>
+      </category>
+      <category name="Light Hybrid Beer" number="6">
+        <style>1C. Cream Ale</style>
+        <style>18A. Blonde Ale</style>
+        <style>5B. Kölsch</style>
+        <style>1D. American Wheat Beer</style>
+      </category>
+      <category name="Amber Hybrid Beer" number="7">
+        <style>2B. International Amber Lager</style>
+        <style>19B. California Common</style>
+        <style>7B. Altbier</style>
+      </category>
+      <category name="English Pale Ale" number="8">
+        <style>11A. Ordinary Bitter</style>
+        <style>11B. Best Bitter</style>
+        <style>11C. Strong Bitter</style>
+      </category>
+      <category name="Scottish and Irish Ale" number="9">
+        <style>14A. Scottish Light</style>
+        <style>14B. Scottish Heavy</style>
+        <style>14C. Scottish Export</style>
+        <style>15A. Irish Red Ale</style>
+        <style>17C. Wee Heavy</style>
+      </category>
+      <category name="American Ale" number="10">
+        <style>18B. American Pale Ale</style>
+        <style>19A. American Amber Ale</style>
+        <style>19C. American Brown Ale</style>
+      </category>
+      <category name="English Brown Ale" number="11">
+        <style>13A. Dark Mild</style>
+        <style>27. Historical Beer (London Brown Ale)</style>
+        <style>13B. British Brown Ale</style>
+      </category>
+      <category name="Porter" number="12">
+        <style>13C. English Porter</style>
+        <style>20A. American Porter</style>
+        <style>9C. Baltic Porter</style>
+      </category>
+      <category name="Stout" number="13">
+        <style>15B. Irish Stout</style>
+        <style>16A. Sweet Stout</style>
+        <style>16B. Oatmeal Stout</style>
+        <style>16D. Foreign Export Stout</style>
+        <style>20B. American Stout</style>
+        <style>20C. Imperial Stout</style>
+      </category>
+      <category name="India Pale Ale (IPA)" number="14">
+        <style>12C. English IPA</style>
+        <style>21A. American IPA</style>
+        <style>22A. Double IPA</style>
+      </category>
+      <category name="German Wheat and Rye Beer" number="15">
+        <style>10A. Weissbier</style>
+        <style>10B. Dunkles Weissbier</style>
+        <style>10C. Weizenbock</style>
+        <style>27. Historical Beer (Roggenbier)</style>
+      </category>
+      <category name="Belgian and French Ale" number="16">
+        <style>24A. Witbier</style>
+        <style>24B. Belgian Pale Ale</style>
+        <style>25B. Saison</style>
+        <style>24C. Bière de Garde</style>
+        <style>34A. Clone Beer (Belgian styles only)</style>
+      </category>
+      <category name="Sour Ale" number="17">
+        <style>23A. Berliner Weisse</style>
+        <style>23B. Flanders Red Ale</style>
+        <style>23C. Oud Bruin</style>
+        <style>23D. Lambic</style>
+        <style>23E. Gueuze</style>
+        <style>23F. Fruit Lambic</style>
+      </category>
+      <category name="Belgian Strong Ale" number="18">
+        <style>25A. Belgian Blond Ale</style>
+        <style>26B. Belgian Dubbel</style>
+        <style>26C. Belgian Tripel</style>
+        <style>25C. Belgian Golden Strong Ale</style>
+        <style>26D. Belgian Dark Strong Ale</style>
+      </category>
+      <category name="Strong Ale" number="19">
+        <style>17B. Old Ale</style>
+        <style>17D. English Barleywine</style>
+        <style>22C. American Barleywine</style>
+      </category>
+      <category name="Fruit Beer" number="20">
+        <style>29A. Fruit Beer</style>
+      </category>
+      <category name="Spice/Herb/Vegetable Beer" number="21">
+        <style>30A. Spice, Herb, or Vegetable Beer</style>
+        <style>30C. Winter Seasonal Beer</style>
+      </category>
+      <category name="Smoke-Flavored and Wood-Aged Beer" number="22">
+        <style>6B. Rauchbier</style>
+        <style>32A. Classic Style Smoked Beer</style>
+        <style>33A. Wood-Aged Beer</style>
+      </category>
+      <category name="Specialty Beer" number="23">
+        <style>3A. Czech Pale Lager</style>
+        <style>2B. International Amber Lager</style>
+        <style>3C. Czech Amber Lager</style>
+        <style>4B. Festbier</style>
+        <style>3D. Czech Dark Lager</style>
+        <style>5A. German Leichtbier</style>
+        <style>7C. Kellerbier</style>
+        <style>12A. British Golden Ale</style>
+        <style>12B. Australian Sparkling Ale</style>
+        <style>21B. Specialty IPA (all)</style>
+        <style>15C. Irish Extra Stout</style>
+        <style>16C. Tropical Stout</style>
+        <style>26A. Trappist Single</style>
+        <style>17A. English Strong Ale</style>
+        <style>22B. American Strong Ale</style>
+        <style>22D. Wheatwine</style>
+        <style>27. Historical Beer (those not already listed)</style>
+        <style>28A. Brett Beer</style>
+        <style>28B. Mixed-Fermentation Sour Beer</style>
+        <style>28C. Soured Fruit Beer</style>
+        <style>29B. Fruit and Spice Beer</style>
+        <style>29C. Specialty Fruit Beer</style>
+        <style>30B. Autumn Seasonal Beer</style>
+        <style>31A. Alternative Grain Beer</style>
+        <style>31B. Alternative Sugar Beer</style>
+        <style>32B. Specialty Smoked Beer</style>
+        <style>33B. Specialty Wood-Aged Beer</style>
+        <style>34A. Clone Beer (non-Belgian styles)</style>
+        <style>34B. Mixed-Style Beer</style>
+        <style>34C. Experimental Beer</style>
+      </category>
+    </alt_categorization>
+    <alt_categorization number="2" title="Styles Sorted Using 2008 Guidelines (Modified)">
+      <paragraph>*This system uses the 2008 categories with the nearest equivalent beer styles from the 2015 guidelines. New styles introduced in the 2015 guidelines have been added to the (subjectively determined) most appropriate 2008 categories.*</paragraph>
+      <category name="Light Lager" number="1">
+        <style>1A. American Light Lager</style>
+        <style>1B. American Lager</style>
+        <style>2A. International Pale Lager</style>
+        <style>4A. Munich Helles</style>
+        <style>4B. Festbier</style>
+        <style>5C. Helles Exportbier</style>
+      </category>
+      <category name="Pilsner" number="2">
+        <style>5A. German Leichtbier</style>
+        <style>3A. Czech Pale Lager</style>
+        <style>5D. German Pils</style>
+        <style>3B. Czech Premium Pale Lager</style>
+        <style>27. Historical Beer (Pre-Pro Lager)</style>
+      </category>
+      <category name="European Amber Lager" number="3">
+        <style>7A. Vienna Lager</style>
+        <style>3C. Czech Amber Lager</style>
+        <style>6A. Märzen</style>
+        <style>7C. Kellerbier</style>
+      </category>
+      <category name="Dark Lager" number="4">
+        <style>2C. International Dark Lager</style>
+        <style>8A. Munich Dunkel</style>
+        <style>3D. Czech Dark Lager</style>
+        <style>8B. Schwarzbier</style>
+      </category>
+      <category name="Bock" number="5">
+        <style>4C. Helles Bock</style>
+        <style>6C. Dunkles Bock</style>
+        <style>9A. Doppelbock</style>
+        <style>9B. Eisbock</style>
+      </category>
+      <category name="Light Hybrid Beer" number="6">
+        <style>1C. Cream Ale</style>
+        <style>18A. Blonde Ale</style>
+        <style>5B. Kölsch</style>
+        <style>1D. American Wheat Beer</style>
+      </category>
+      <category name="Amber Hybrid Beer" number="7">
+        <style>2B. International Amber Lager</style>
+        <style>27. Historical Beer (Kentucky Common)</style>
+        <style>19B. California Common</style>
+        <style>7B. Altbier</style>
+      </category>
+      <category name="English Pale Ale" number="8">
+        <style>11A. Ordinary Bitter</style>
+        <style>11B. Best Bitter</style>
+        <style>11C. Strong Bitter</style>
+        <style>12A. British Golden Ale</style>
+        <style>12B. Australian Sparkling Ale</style>
+      </category>
+      <category name="Scottish and Irish Ale" number="9">
+        <style>14A. Scottish Light</style>
+        <style>14B. Scottish Heavy</style>
+        <style>14C. Scottish Export</style>
+        <style>15A. Irish Red Ale</style>
+        <style>17C. Wee Heavy</style>
+      </category>
+      <category name="American Ale" number="10">
+        <style>18B. American Pale Ale</style>
+        <style>19A. American Amber Ale</style>
+        <style>19C. American Brown Ale</style>
+      </category>
+      <category name="English Brown Ale" number="11">
+        <style>13A. Dark Mild</style>
+        <style>27. Historical Beer (London Brown Ale)</style>
+        <style>13B. British Brown Ale</style>
+      </category>
+      <category name="Porter" number="12">
+        <style>13C. English Porter</style>
+        <style>27. Historical Beer (Pre-Pro Porter)</style>
+        <style>20A. American Porter</style>
+        <style>9C. Baltic Porter</style>
+      </category>
+      <category name="Stout" number="13">
+        <style>15B. Irish Stout</style>
+        <style>15C. Irish Extra Stout</style>
+        <style>16A. Sweet Stout</style>
+        <style>16B. Oatmeal Stout</style>
+        <style>16C. Tropical Stout</style>
+        <style>16D. Foreign Export Stout</style>
+        <style>20B. American Stout</style>
+        <style>20C. Imperial Stout</style>
+      </category>
+      <category name="India Pale Ale (IPA)" number="14">
+        <style>12C. English IPA</style>
+        <style>21A. American IPA</style>
+        <style>22A. Double IPA</style>
+        <style>21B. Specialty IPA (all)</style>
+      </category>
+      <category name="German Wheat and Rye Beer" number="15">
+        <style>10A. Weissbier</style>
+        <style>10B. Dunkles Weissbier</style>
+        <style>10C. Weizenbock</style>
+        <style>27. Historical Beer (Roggenbier)</style>
+        <style>27. Historical Beer (Sahti)</style>
+      </category>
+      <category name="Belgian and French Ale" number="16">
+        <style>24A. Witbier</style>
+        <style>26A. Trappist Single</style>
+        <style>24B. Belgian Pale Ale</style>
+        <style>25B. Saison</style>
+        <style>24C. Bière de Garde</style>
+        <style>34A. Clone Beer (Belgian styles only)</style>
+      </category>
+      <category name="Sour Ale" number="17">
+        <style>23A. Berliner Weisse</style>
+        <style>27. Historical Beer (Gose)</style>
+        <style>23B. Flanders Red Ale</style>
+        <style>23C. Oud Bruin</style>
+        <style>23D. Lambic</style>
+        <style>23E. Gueuze</style>
+        <style>23F. Fruit Lambic</style>
+      </category>
+      <category name="Belgian Strong Ale" number="18">
+        <style>25A. Belgian Blond Ale</style>
+        <style>26B. Belgian Dubbel</style>
+        <style>26C. Belgian Tripel</style>
+        <style>25C. Belgian Golden Strong Ale</style>
+        <style>26D. Belgian Dark Strong Ale</style>
+      </category>
+      <category name="Strong Ale" number="19">
+        <style>17B. Old Ale</style>
+        <style>17A. English Strong Ale</style>
+        <style>22B. American Strong Ale</style>
+        <style>17D. English Barleywine</style>
+        <style>22C. American Barleywine</style>
+        <style>22D. Wheatwine</style>
+      </category>
+      <category name="Fruit Beer" number="20">
+        <style>29A. Fruit Beer</style>
+      </category>
+      <category name="Spice/Herb/Vegetable Beer" number="21">
+        <style>30A. Spice, Herb, or Vegetable Beer</style>
+        <style>30B. Autumn Seasonal Beer</style>
+        <style>30C. Winter Seasonal Beer</style>
+      </category>
+      <category name="Smoke-Flavored and Wood-Aged Beer" number="22">
+        <style>27. Historical Beer (Piwo Grodziskie)</style>
+        <style>27. Historical Beer (Lichtenhainer)</style>
+        <style>6B. Rauchbier</style>
+        <style>32A. Classic Style Smoked Beer</style>
+        <style>33A. Wood-Aged Beer</style>
+      </category>
+      <category name="Specialty Beer" number="23">
+        <style>28A. Brett Beer</style>
+        <style>28B. Mixed-Fermentation Sour Beer</style>
+        <style>28C. Soured Fruit Beer</style>
+        <style>29B. Fruit and Spice Beer</style>
+        <style>29C. Specialty Fruit Beer</style>
+        <style>31A. Alternative Grain Beer</style>
+        <style>31B. Alternative Sugar Beer</style>
+        <style>32B. Specialty Smoked Beer</style>
+        <style>33B. Specialty Wood-Aged Beer</style>
+        <style>34A. Clone Beer (non-Belgian styles)</style>
+        <style>34B. Mixed-Style Beer</style>
+        <style>34C. Experimental Beer</style>
+      </category>
+    </alt_categorization>
+    <alt_categorization number="3" title="Styles Sorted Using Style Family">
+      <paragraph>*This system uses new categories based on the style family or beer style name without regard to country of origin or history; based primarily on color and yeast. Has fewer, broader categories.*</paragraph>
+      <category name="Pale Lager" number="1">
+        <style>1A. American Light Lager</style>
+        <style>1B. American Lager</style>
+        <style>2A. International Pale Lager</style>
+        <style>3A. Czech Pale Lager</style>
+        <style>4A. Munich Helles</style>
+        <style>4B. Festbier</style>
+        <style>5A. German Leichtbier</style>
+        <style>5C. Helles Exportbier</style>
+        <style>7C. Kellerbier (Pale Kellerbier)</style>
+      </category>
+      <category name="Pilsner" number="2">
+        <style>3B. Czech Premium Pale Lager</style>
+        <style>5D. German Pils</style>
+        <style>27. Historical Beer (Pre-Prohibition Lager)</style>
+      </category>
+      <category name="Amber Lager" number="3">
+        <style>2B. International Amber Lager</style>
+        <style>3C. Czech Amber Lager</style>
+        <style>6A. Märzen</style>
+        <style>6B. Rauchbier</style>
+        <style>7A. Vienna Lager</style>
+        <style>7C. Kellerbier (Amber Kellerbier)</style>
+        <style>19B. California Common</style>
+      </category>
+      <category name="Dark Lager" number="4">
+        <style>2C. International Dark Lager</style>
+        <style>3D. Czech Dark Lager</style>
+        <style>8A. Munich Dunkel</style>
+        <style>8B. Schwarzbier</style>
+      </category>
+      <category name="Bock" number="5">
+        <style>4C. Helles Bock</style>
+        <style>6C. Dunkles Bock</style>
+        <style>9A. Doppelbock</style>
+        <style>9B. Eisbock</style>
+      </category>
+      <category name="Pale Ale" number="6">
+        <style>1C. Cream Ale</style>
+        <style>5B. Kölsch</style>
+        <style>12A. British Golden Ale</style>
+        <style>12B. Australian Sparkling Ale</style>
+        <style>18A. Blonde Ale</style>
+        <style>18B. American Pale Ale</style>
+        <style>24B. Belgian Pale Ale</style>
+        <style>25A. Belgian Blond Ale</style>
+        <style>25B. Saison</style>
+        <style>26A. Trappist Single</style>
+      </category>
+      <category name="IPA" number="7">
+        <style>12C. English IPA</style>
+        <style>21A. American IPA</style>
+        <style>21B. Specialty IPA (all)</style>
+        <style>22A. Double IPA</style>
+      </category>
+      <category name="Amber Ale" number="8">
+        <style>7B. Altbier</style>
+        <style>11A. Ordinary Bitter</style>
+        <style>11B. Best Bitter</style>
+        <style>11C. Strong Bitter</style>
+        <style>14A. Scottish Light</style>
+        <style>14B. Scottish Heavy</style>
+        <style>14C. Scottish Export</style>
+        <style>15A. Irish Red Ale</style>
+        <style>19A. American Amber Ale</style>
+        <style>24C. Bière de Garde</style>
+        <style>26B. Belgian Dubbel</style>
+        <style>27. Historical Beer (Kentucky Common)</style>
+      </category>
+      <category name="Brown Ale" number="9">
+        <style>13A. Dark Mild</style>
+        <style>13B. British Brown Ale</style>
+        <style>19C. American Brown Ale</style>
+        <style>27. Historical Beer (London Brown Ale)</style>
+      </category>
+      <category name="Porter" number="10">
+        <style>9C. Baltic Porter</style>
+        <style>13C. English Porter</style>
+        <style>20A. American Porter</style>
+        <style>27. Historical Beer (Pre-Prohibition Porter)</style>
+      </category>
+      <category name="Stout" number="11">
+        <style>15B. Irish Stout</style>
+        <style>15C. Irish Extra Stout</style>
+        <style>16A. Sweet Stout</style>
+        <style>16B. Oatmeal Stout</style>
+        <style>16C. Tropical Stout</style>
+        <style>16D. Foreign Extra Stout</style>
+        <style>20B. American Stout</style>
+        <style>20C. Imperial Stout</style>
+      </category>
+      <category name="Strong Ale" number="12">
+        <style>17A. British Strong Ale</style>
+        <style>17B. Old Ale</style>
+        <style>17C. Wee Heavy</style>
+        <style>17D. English Barleywine</style>
+        <style>22B. American Strong Ale</style>
+        <style>22C. American Barleywine</style>
+        <style>22D. Wheatwine</style>
+        <style>25C. Belgian Golden Strong Ale</style>
+        <style>26C. Belgian Tripel</style>
+        <style>26D. Belgian Dark Strong Ale</style>
+      </category>
+      <category name="Wheat Beer" number="13">
+        <style>1D. American Wheat Beer</style>
+        <style>10A. Weissbier</style>
+        <style>10B. Dunkles Weissbier</style>
+        <style>10C. Weizenbock</style>
+        <style>23A. Berliner Weisse</style>
+        <style>23D. Lambic</style>
+        <style>23E. Gueuze</style>
+        <style>23F. Fruit Lambic</style>
+        <style>24A. Witbier</style>
+        <style>27. Historical Beer (Gose)</style>
+        <style>27. Historical Beer (Piwo Grodziskie)</style>
+        <style>27. Historical Beer (Lichtenhainer)</style>
+        <style>27. Historical Beer (Roggenbier)</style>
+        <style>27. Historical Beer (Sahti)</style>
+      </category>
+      <category name="Sour Ale" number="14">
+        <style>23B. Flanders Red</style>
+        <style>23C. Oud Bruin</style>
+      </category>
+      <category name="Specialty Beer" number="15">
+        <style>All remaining beers in Categories 28-34</style>
+      </category>
+    </alt_categorization>
+    <alt_categorization number="4" title="Styles Sorted Using Country of Origin">
+      <paragraph>*This system uses new categories based on country of origin. Specialty beers omitted.*</paragraph>
+      <category name="United States" number="1">
+        <style>1A. American Light Lager</style>
+        <style>1B. American Lager</style>
+        <style>1C. Cream Ale</style>
+        <style>1D. American Wheat Beer</style>
+        <style>18A. Blonde Ale</style>
+        <style>18B. American Pale Ale</style>
+        <style>19A. American Amber Ale</style>
+        <style>19B. California Common</style>
+        <style>19C. American Brown Ale</style>
+        <style>20A. American Porter</style>
+        <style>20B. American Stout</style>
+        <style>21A. American IPA</style>
+        <style>21B. Specialty IPA</style>
+        <style>22A. Double IPA</style>
+        <style>22B. American Strong Ale</style>
+        <style>22C. American Barleywine</style>
+        <style>22D. Wheatwine</style>
+        <style>27. Historical Beer (Kentucky Common)</style>
+        <style>27. Historical Beer (Pre-Pro Lager)</style>
+        <style>27. Historical Beer (Pre-Pro Porter)</style>
+      </category>
+      <category name="International" number="2">
+        <style>2A. International Pale Lager</style>
+        <style>2B. International Amber Lager</style>
+        <style>2C. International Dark Lager</style>
+      </category>
+      <category name="England" number="3">
+        <style>11A. Ordinary Bitter</style>
+        <style>11B. Best Bitter</style>
+        <style>11C. Strong Bitter</style>
+        <style>12A. British Golden Ale</style>
+        <style>12C. English IPA</style>
+        <style>13A. Dark Mild</style>
+        <style>13B. British Brown Ale</style>
+        <style>13C. English Porter</style>
+        <style>16A. Sweet Stout</style>
+        <style>16B. Oatmeal Stout</style>
+        <style>16C. Tropical Stout</style>
+        <style>16D. Foreign Extra Stout</style>
+        <style>17A. British Strong Ale</style>
+        <style>17B. Old Ale</style>
+        <style>17D. English Barleywine</style>
+        <style>20C. Imperial Stout</style>
+        <style>27. Historical Beer (London Brown Ale)</style>
+      </category>
+      <category name="Scotland" number="4">
+        <style>14A. Scottish Light</style>
+        <style>14B. Scottish Heavy</style>
+        <style>14C. Scottish Export</style>
+        <style>17C. Wee Heavy</style>
+      </category>
+      <category name="Ireland" number="5">
+        <style>15A. Irish Red Ale</style>
+        <style>15B. Irish Stout</style>
+        <style>15C. Irish Extra Stout</style>
+      </category>
+      <category name="Belgium" number="6">
+        <style>23B. Flanders Red Ale</style>
+        <style>23C. Oud Bruin</style>
+        <style>23D. Lambic</style>
+        <style>23E. Gueuze</style>
+        <style>23F. Fruit Lambic</style>
+        <style>24A. Witbier</style>
+        <style>24B. Belgian Pale Ale</style>
+        <style>25A. Belgian Blond Ale</style>
+        <style>25B. Saison</style>
+        <style>25C. Belgian Golden Strong Ale</style>
+        <style>26A. Trappist Single</style>
+        <style>26B. Belgian Dubbel</style>
+        <style>26C. Belgian Tripel</style>
+        <style>26D. Belgian Dark Strong Ale</style>
+      </category>
+      <category name="France" number="7">
+        <style>24C. Bière de Garde</style>
+      </category>
+      <category name="Germany" number="8">
+        <style>4A. Munich Helles</style>
+        <style>4B. Festbier</style>
+        <style>4C. Helles Bock</style>
+        <style>5A. German Leichtbier</style>
+        <style>5B. Kölsch</style>
+        <style>5C. Helles Exportbier</style>
+        <style>5D. German Pils</style>
+        <style>6A. Märzen</style>
+        <style>6B. Rauchbier</style>
+        <style>6C. Dunkles Bock</style>
+        <style>7B. Altbier</style>
+        <style>7C. Kellerbier</style>
+        <style>8A. Munich Dunkel</style>
+        <style>8B. Schwarzbier</style>
+        <style>9A. Doppelbock</style>
+        <style>8B. Eisbock</style>
+        <style>10A. Weissbier</style>
+        <style>10B. Dunkles Weissbier</style>
+        <style>10C. Weizenbock</style>
+        <style>23A. Berliner Weisse</style>
+        <style>27. Historical Beer (Gose)</style>
+        <style>27. Historical Beer (Lichtenhainer)</style>
+        <style>27. Historical Beer (Roggenbier)</style>
+      </category>
+      <category name="Austria" number="9">
+        <style>7A. Vienna Lager</style>
+      </category>
+      <category name="Czech Republic" number="10">
+        <style>3A. Czech Pale Lager</style>
+        <style>3B. Czech Premium Pale Lager</style>
+        <style>3C. Czech Amber Lager</style>
+        <style>3D. Czech Dark Lager</style>
+      </category>
+      <category name="Poland" number="11">
+        <style>27. Historical Beer (Piwo Grodziskie)</style>
+      </category>
+      <category name="Scandinavia" number="12">
+        <style>9C. Baltic Porter</style>
+        <style>27. Historical Beer (Sahti)</style>
+      </category>
+      <category name="Australia" number="13">
+        <style>12B. Australian Sparkling Ale</style>
+      </category>
+    </alt_categorization>
+    <alt_categorization number="5" title="Styles Sorted Using History">
+      <paragraph>*This system attempts to break the styles into groups based on historical development and derived styles in a more granular approach than the style family sorting.*</paragraph>
+      <category name="Pilsner" number="1">
+        <style>3A. Czech Pale Lager</style>
+        <style>3B. Czech Premium Pale Lager</style>
+        <style>5D. German Pils</style>
+        <style>7C. Kellerbier (Pale Kellerbier)</style>
+        <style>27. Historical Beer (Pre-Pro Lager)</style>
+        <style>5A. German Leichtbier</style>
+      </category>
+      <category name="Mass Market Pale Lager" number="2">
+        <style>1B. American Lager</style>
+        <style>2A. International Pale Lager</style>
+        <style>1A. American Light Lager</style>
+      </category>
+      <category name="European Pale Lager" number="3">
+        <style>5C. Helles Exportbier</style>
+        <style>4A. Munich Helles</style>
+        <style>4B. Festbier</style>
+        <style>4C. Helles Bock</style>
+      </category>
+      <category name="Amber Lager" number="4">
+        <style>7A. Vienna Lager</style>
+        <style>6A. Märzen</style>
+        <style>7C. Kellerbier (Amber Kellerbier)</style>
+        <style>3C. Czech Amber Lager</style>
+        <style>2B. International Amber Lager</style>
+      </category>
+      <category name="European Smoked Beer" number="5">
+        <style>27. Historical Beer (Piwo Grodziskie)</style>
+        <style>27. Historical Beer (Lichtenhainer)</style>
+        <style>6B. Rauchbier</style>
+      </category>
+      <category name="Indigenous American Beer" number="6">
+        <style>1C. Cream Ale</style>
+        <style>19B. California Common</style>
+        <style>27. Historical Beer (Kentucky Common)</style>
+        <style>18A. Blonde Ale</style>
+      </category>
+      <category name="Dark Lager" number="7">
+        <style>8A. Munich Dunkel</style>
+        <style>3D. Czech Dark Lager</style>
+        <style>8B. Schwarzbier</style>
+        <style>2C. International Dark Lager</style>
+      </category>
+      <category name="Bock" number="8">
+        <style>6C. Dunkles Bock</style>
+        <style>9A. Doppelbock</style>
+        <style>9B. Eisbock</style>
+      </category>
+      <category name="English Pale Ale" number="9">
+        <style>11A. Ordinary Bitter</style>
+        <style>11B. Best Bitter</style>
+        <style>11C. Strong Bitter</style>
+        <style>12C. English IPA</style>
+      </category>
+      <category name="Pale Ales (derived from English Pale Ale)" number="10">
+        <style>15A. Irish Red Ale</style>
+        <style>12B. Australian Sparkling Ale</style>
+        <style>24B. Belgian Pale Ale</style>
+        <style>12A. British Golden Ale</style>
+      </category>
+      <category name="American Pale Beer (derived from English styles)" number="11">
+        <style>18B. American Pale Ale</style>
+        <style>19A. American Amber Ale</style>
+        <style>21A. American IPA</style>
+      </category>
+      <category name="American Bitter Beer (derived from American IPA)" number="12">
+        <style>21B. Specialty IPA (all)</style>
+        <style>22A. Double IPA</style>
+      </category>
+      <category name="Top-Fermented German Lagers" number="13">
+        <style>5B. Kölsch</style>
+        <style>7B. Altbier</style>
+      </category>
+      <category name="European Farmhouse Beer" number="14">
+        <style>24C. Bière de Garde</style>
+        <style>25B. Saison</style>
+        <style>27. Historical Beer (Sahti)</style>
+      </category>
+      <category name="English Mild" number="15">
+        <style>13A. Dark Mild</style>
+      </category>
+      <category name="Dark American Beer (derived from English Styles)" number="16">
+        <style>19C. American Brown Ale</style>
+        <style>27. Historical Beer (Pre-Pro Porter)</style>
+        <style>20A. American Porter</style>
+        <style>20B. American Stout</style>
+      </category>
+      <category name="Porter" number="17">
+        <style>13C. English Porter</style>
+        <style>9C. Baltic Porter</style>
+      </category>
+      <category name="Irish Stout" number="18">
+        <style>16D. Foreign Extra Stout</style>
+        <style>15C. Irish Extra Stout</style>
+        <style>15B. Irish Stout</style>
+      </category>
+      <category name="English Stout" number="19">
+        <style>20C. Imperial Stout</style>
+        <style>16B. Oatmeal Stout</style>
+        <style>16A. Sweet Stout</style>
+        <style>16C. Tropical Stout</style>
+      </category>
+      <category name="Strong Ale" number="20">
+        <style>17B. Old Ale</style>
+        <style>17A. British Strong Ale</style>
+        <style>22B. American Strong Ale</style>
+      </category>
+      <category name="Barleywine" number="21">
+        <style>17D. English Barleywine</style>
+        <style>22C. American Barleywine</style>
+        <style>22D. Wheatwine</style>
+      </category>
+      <category name="Belgian Ale" number="22">
+        <style>25A. Belgian Blond Ale</style>
+        <style>26A. Trappist Single</style>
+        <style>26B. Belgian Dubbel</style>
+      </category>
+      <category name="Belgian Strong Ale" number="23">
+        <style>26C. Belgian Tripel</style>
+        <style>25C. Belgian Golden Strong Ale</style>
+        <style>26D. Belgian Dark Strong Ale</style>
+      </category>
+      <category name="Wheat Beer" number="24">
+        <style>10A. Weissbier</style>
+        <style>10B. Dunkles Weissbier</style>
+        <style>10C. Weizenbock</style>
+        <style>24A. Witbier</style>
+        <style>27. Historical Beer (Roggenbier)</style>
+        <style>1D. American Wheat Beer</style>
+      </category>
+      <category name="German Sour Ale" number="25">
+        <style>23A. Berliner Weisse</style>
+        <style>27. Historical Beer (Gose)</style>
+      </category>
+      <category name="Belgian Sour Ale" number="26">
+        <style>23B. Flanders Red</style>
+        <style>23C. Oud Bruin</style>
+        <style>23D. Lambic</style>
+        <style>23E. Gueuze</style>
+        <style>23F. Fruit Lambic</style>
+      </category>
+      <category name="Specialty Beer" number="27">
+        <style>All remaining beers in Categories 28-34</style>
+      </category>
+    </alt_categorization>
+  </appendix>
+</doc>
