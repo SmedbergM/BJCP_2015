@@ -26,9 +26,9 @@
 
 **Ingredientes:** Usualmente solo malta pálida o pilsen, aunque puede incluir bajas proporciones de malta caramelizadas. Comúnmente lúpulo Cascade. Levaduras americanas limpias, británicas levemente frutadas o Kölsch, usualmente acondicionada en frío.
 
-**Estadísticas vitales:**
+**Estadísticas vitales:**  
 D.I.:1.042 - 1.054  
-D.F.:1.009 - 1.013
+D.F.:1.009 - 1.013  
 IBUs:15 - 22  
 SRM:3 - 5  
 G.A.:4,3º - 5,5º
@@ -51,7 +51,7 @@ G.A.:4,3º - 5,5º
 
 **Ingredients:** Usually only pale or pils malt, although may include low rates of caramelized malt. Commonly Cascade hops. Clean American yeast, slightly fruity British or Kölsch, usually packaged in cold. 
 
-**Vital Statistics:**
+**Vital Statistics:** 
 OG:1.042 - 1.054  
 FG:1.009 - 1.013  
 IBU:15 - 22  
@@ -79,12 +79,12 @@ Sabor a malta bajo a medio, límpido, aunque son aceptables bajos niveles acaram
 
 **Ingredientes:** Malta pálida (bien modificada y disponible para maceración simple) y una cantidad de trigo como complemento que no debe superar el 15%; El trigo puede ser malteado o sin maltear. EN el caso de agregar caramelos, deben ser limitados y preferentemente utilizando trigo caramelo. Los lúpulos Argentinos como el Cascade, Mapuche y Nugget son los usuales, aunque puede tener Spalt, Victoria y Bullion para agregar complejidad. Levadura americana que da un perfil límpido o levemente frutal. El agua varía de blanda a moderadamente sulfatada.
 
-**Estadísticas vitales:**
+**Estadísticas vitales:**  
 DO:1055 - 1065  
 DF:1008 - 1015  
 IBU:35 - 60  
 SRM:6 - 15  
-GA:5.0 - 6.5%.
+GA:5.0 - 6.5%
 
 **Ejemplos comerciales:** Antares Ipa Argenta, Kerze Ipa Argenta
 
@@ -104,12 +104,12 @@ GA:5.0 - 6.5%.
 
 **Ingredients:** Pale ale malt (well-modified and suitable for single-temperature infusion mashing) with up to 15% wheat, either malted or unmalted; Caramel malts should be limited and preferably be caramel wheat. Argentine hops like Cascade, Mapuche and Nugget are typical, although Spalt, Victoria or Bullion may be used to add complexity; American yeast that can give a clean or slightly fruity profile. Water character varies from soft to moderately sulfate. 
 
-**Vital Statistics:**
+**Vital Statistics:**  
 OG:1.055 - 1.065  
 FG:1.008 - 1.015  
 IBU: 35 - 60  
 SRM: 6 - 15  
-ABV:5.0 - 6.5%.
+ABV:5.0 - 6.5%
 
 **Commercial Examples:** Antares Ipa Argenta, Kerze Ipa Argenta
 
@@ -133,7 +133,7 @@ ABV:5.0 - 6.5%.
 
 **Ingredients:** Pils or pale base malt with some adjuncts (if any) or special malts. Grape content can represent up 40% of whole grist. Grape or grape must (sometimes extensively boiled before use) can be used at different stages: boil, primary/secondary fermentation, or aging. Ale or wine yeast can show a neutral character (more common) or a fruity profile (English and Belgian strains). A wide range of hop varieties can be used in low quantities in order not to excessively characterize the beer.
 
-**Vital Statistics:**
+**Vital Statistics:**  
 OG:1.043 - 1.090  
 FG:1.007 - 1.015  
 IBUs:10 - 30  
