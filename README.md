@@ -32,5 +32,5 @@ Ray Daniels, Roger Deschner, Rick Garvin, Jan Grmela, Bob Hall, Stan Hieronymus,
 Final Review:  
 Brian Eichhorn, Agatha Feltus, Dennis Mitchell, Michael Wilcox
 
-Plain Text and XML versions:  
+Markdown and XML versions:  
 Matthew Smedberg
