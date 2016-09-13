@@ -25,7 +25,7 @@
         <paragraph>The entrant **must** specify the name of the commercial beer being cloned, specifications (vital statistics) for the beer, and either a brief sensory description or a list of ingredients used in making the beer. *Without this information, judges who are unfamiliar with the beer will have no basis for comparison.*</paragraph>
       </entryinstructions>
       <vitalstatistics>
-        <pargraph>OG, FG, IBUs, SRM and ABV will vary depending on the declared beer.</pargraph>
+        <paragraph>OG, FG, IBUs, SRM and ABV will vary depending on the declared beer.</paragraph>
       </vitalstatistics>
       <tags>
         <tag>specialty-beer</tag>
