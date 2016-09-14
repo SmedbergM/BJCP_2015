@@ -159,7 +159,7 @@ def parse_vital_statistics(line_iterator):
                 vs = etree.Element(mvar.group(1))
                 vs.text = mvar.group(2)
             else:
-                vs = etree.Element("pargraph")
+                vs = etree.Element("paragraph")
                 vs.text = line
             yield vs
             line = next(line_iterator).strip()

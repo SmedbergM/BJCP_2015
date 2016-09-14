@@ -1,7 +1,6 @@
 <doc>
   <category name="Standard American Beer" number="1">
-    <paragraph>*This category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager-like qualities, or are designed to appeal to mass-market lager drinkers as crossover beers. Mass-market beers with a more international appeal or origin are described in the International Lager category.*
-</paragraph>
+    <paragraph>*This category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager-like qualities, or are designed to appeal to mass-market lager drinkers as crossover beers. Mass-market beers with a more international appeal or origin are described in the International Lager category.*</paragraph>
     <style style_id="1A" style_name="American Light Lager">
       <overallimpression>
         <paragraph>Highly carbonated, very light-bodied, nearly flavorless lager designed to be consumed very cold. Very refreshing and thirst quenching.</paragraph>
@@ -28,7 +27,7 @@
         <paragraph>Two- or six-row barley with high percentage (up to 40%) of rice or corn as adjuncts. Additional enzymes can further lighten the body and lower carbohydrates.</paragraph>
       </characteristicingredients>
       <stylecomparison>
-        <paragraph>A lighter-bodied, lower-alcohol, lower calorie version of an American Lager. Less hop character and bitterness than a Leichtbier. </paragraph>
+        <paragraph>A lighter-bodied, lower-alcohol, lower calorie version of an American Lager. Less hop character and bitterness than a Leichtbier.</paragraph>
       </stylecomparison>
       <vitalstatistics>
         <OG high="1.040" low="1.028"/>
@@ -124,7 +123,7 @@
         <paragraph>Low to medium-low hop bitterness. Low to moderate maltiness and sweetness, varying with gravity and attenuation. Usually well-attenuated. Neither malt nor hops dominate the palate. A low to moderate corny flavor is commonly found, as is light DMS (optional). Finish can vary from somewhat dry to faintly sweet. Low fruity esters are optional. Low to medium-low hop flavor (any variety, but typically floral, spicy, or herbal).</paragraph>
       </flavor>
       <mouthfeel>
-        <paragraph>Generally light and crisp, although body can reach medium. Smooth mouthfeel with medium to high attenuation; higher attenuation levels can lend a "thirst quenching" quality. High carbonation. </paragraph>
+        <paragraph>Generally light and crisp, although body can reach medium. Smooth mouthfeel with medium to high attenuation; higher attenuation levels can lend a "thirst quenching" quality. High carbonation.</paragraph>
       </mouthfeel>
       <comments>
         <paragraph>Pre-prohibition Cream Ales were slightly stronger, hoppier (including some dry hopping) and more bitter (25-30+ IBUs). These versions should be entered in the historical category. Most commercial examples are in the 1.050-1.053 OG range, and bitterness rarely rises above 20 IBUs.</paragraph>

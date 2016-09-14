@@ -196,13 +196,9 @@
         <ABV high="6.5" low="5.0"/>
       </vitalstatistics>
       <commercialexamples>
-        <commercial_example group="5 years">lambic. In and around Brussels there are specialty cafes that often have draught lambics from traditional brewers or blenders such as Boon</commercial_example>
-        <commercial_example group="5 years">De Cam</commercial_example>
-        <commercial_example group="5 years">Cantillon</commercial_example>
-        <commercial_example group="5 years">Drie Fonteinen</commercial_example>
-        <commercial_example group="5 years">Lindemans</commercial_example>
-        <commercial_example group="5 years">Timmermans and Girardin.</commercial_example>
+        <commercial_example>Cantillon Grand Cru Bruocsella</commercial_example>
       </commercialexamples>
+      <paragraph>The only bottled version readily available is Cantillon Grand Cru Bruocsella of whatever single batch vintage the brewer deems worthy to bottle. De Cam sometimes bottles their very old (5 years) lambic. In and around Brussels there are specialty cafes that often have draught lambics from traditional brewers or blenders such as Boon, De Cam, Cantillon, Drie Fonteinen, Lindemans, Timmermans and Girardin.</paragraph>
       <tags>
         <tag>standard-strength</tag>
         <tag>pale-color</tag>
@@ -249,8 +245,17 @@
         <ABV high="8.0" low="5.0"/>
       </vitalstatistics>
       <commercialexamples>
-        <commercial_example group="Black Label), Hanssens Oude Gueuze, Lindemans Gueuze Cuvée René, Mort Subite (Unfiltered">Gueuze</commercial_example>
-        <commercial_example group="Black Label), Hanssens Oude Gueuze, Lindemans Gueuze Cuvée René, Mort Subite (Unfiltered">Oud Beersel Oude Gueuze</commercial_example>
+        <commercial_example>Boon Oude Gueuze</commercial_example>
+        <commercial_example>Boon Oude Gueuze Mariage Parfait</commercial_example>
+        <commercial_example>Cantillon Gueuze</commercial_example>
+        <commercial_example>De Cam Gueuze</commercial_example>
+        <commercial_example>De Cam/Drei Fonteinen Millennium Gueuze</commercial_example>
+        <commercial_example>Drie Fonteinen Oud Gueuze</commercial_example>
+        <commercial_example>Girardin Gueuze (Black Label)</commercial_example>
+        <commercial_example>Hanssens Oude Gueuze</commercial_example>
+        <commercial_example>Lindemans Gueuze Cuvée René</commercial_example>
+        <commercial_example>Mort Subite (Unfiltered) Gueuze</commercial_example>
+        <commercial_example>Oud Beersel Oude Gueuze</commercial_example>
       </commercialexamples>
       <tags>
         <tag>high-strength</tag>
@@ -298,7 +303,7 @@
         <OG high="1.060" low="1.040"/>
         <FG high="1.010" low="1.000"/>
         <IBUs high="10" low="0"/>
-        <SRM high="7" low="3">(varies w/ fruit)  </SRM>
+        <SRM high="7" low="3">(varies w/ fruit)</SRM>
         <ABV high="7.0" low="5.0"/>
       </vitalstatistics>
       <commercialexamples>
