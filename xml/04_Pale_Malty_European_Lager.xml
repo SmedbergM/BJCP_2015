@@ -27,7 +27,7 @@
         <paragraph>Continental Pilsner malt, traditional German Saazer-type hop varieties, clean German lager yeast.</paragraph>
       </characteristicingredients>
       <stylecomparison>
-        <paragraph>Similar in malt balance and bitterness to Munich Dunkel, but less malty-sweet in nature and pale rather than dark. More body and malt presence than a German Pils, with less hop character throughout. Similar malt profile as a German Exportbier, but with less hops in the balance. </paragraph>
+        <paragraph>Similar in malt balance and bitterness to Munich Dunkel, but less malty-sweet in nature and pale rather than dark. More body and malt presence than a German Pils, with less hop character throughout. Similar malt profile as a German Exportbier, but with less hops in the balance.</paragraph>
       </stylecomparison>
       <vitalstatistics>
         <OG high="1.048" low="1.044"/>
@@ -70,7 +70,7 @@
         <paragraph>Medium to medium-high malty flavor initially, with a lightly toasty, bread dough quality and an impression of soft sweetness. Medium to medium-low bitterness, definitely malty in the balance. Well-attenuated and crisp, but not dry. Medium-low to medium floral, herbal, or spicy hop flavor. Clean lager fermentation character. The taste is mostly of Pils malt, but with slightly toasty hints. The bitterness is supportive, but still should yield a malty, flavorful finish.</paragraph>
       </flavor>
       <mouthfeel>
-        <paragraph>Medium body, with a smooth, somewhat creamy texture. Medium carbonation. Alcohol strength barely noticeable as warming, if at all. </paragraph>
+        <paragraph>Medium body, with a smooth, somewhat creamy texture. Medium carbonation. Alcohol strength barely noticeable as warming, if at all.</paragraph>
       </mouthfeel>
       <comments>
         <paragraph>This style represents the modern German beer served at Oktoberfest (although it is not solely reserved for Oktoberfest; it can be found at many other 'fests'), and is sometimes called Wiesn ("the meadow" or local name for the Oktoberfest festival). We chose to call this style *Festbier* since by German and EU regulations, *Oktoberfestbier* is a protected appellation for beer produced at large breweries within the Munich city limits for consumption at Oktoberfest. Other countries are not bound by these rules, so many craft breweries in the US produce beer called Oktoberfest, but based on the traditional style described in these guidelines as *Märzen*.</paragraph>
@@ -115,7 +115,9 @@
       <overallimpression>
         <paragraph>A relatively pale, strong, malty German lager beer with a nicely attenuated finish that enhances drinkability. The hop character is generally more apparent than in other bocks.</paragraph>
       </overallimpression>
-      <paragraph>**Aroma: **Moderate to strong grainy-sweet malt aroma, often with a lightly toasted quality and low Maillard products. Moderately-low to no hop aroma, often with a spicy, herbal, or floral quality. Clean fermentation profile. Fruity esters should be low to none. Very light alcohol may be noticeable. May have a light DMS aroma.</paragraph>
+      <aroma>
+        <paragraph>Moderate to strong grainy-sweet malt aroma, often with a lightly toasted quality and low Maillard products. Moderately-low to no hop aroma, often with a spicy, herbal, or floral quality. Clean fermentation profile. Fruity esters should be low to none. Very light alcohol may be noticeable. May have a light DMS aroma.</paragraph>
+      </aroma>
       <appearance>
         <paragraph>Deep gold to light amber in color. Bright to clear clarity. Large, creamy, persistent, white head.</paragraph>
       </appearance>
