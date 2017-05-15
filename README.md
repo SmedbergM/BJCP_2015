@@ -1,7 +1,7 @@
 # Beer Judge Certification Program
 # 2015 Style Guidelines
 
-###Text and XML versions of the Beer Judge Certification Program 2015 style guidelines
+### Text and XML versions of the Beer Judge Certification Program 2015 style guidelines
 
 Markdown version generated via (somewhat laborious) copy/paste from the official DOCX.
 
